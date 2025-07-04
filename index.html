@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hong Kong Nearest Bus Stop ETA</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .bus-card {
+            transition: transform 0.2s ease-in-out;
+        }
+        .bus-card:hover {
+            transform: translateY(-5px);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8 max-w-4xl">
+        <header class="text-center mb-8">
+            <h1 class="text-4xl font-bold text-gray-900">Nearest Bus Stop Finder</h1>
+            <p class="text-lg text-gray-600 mt-2">Find real-time KMB bus arrival times in Hong Kong</p>
+        </header>
+
+        <div class="text-center mb-8">
+            <button id="find-btn" class="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transition-transform transform hover:scale-105">
+                Find My Nearest Bus Stop
+            </button>
+        </div>
+
+        <div id="loading" class="text-center hidden">
+            <p class="text-lg text-indigo-600">Finding your location and the nearest bus stop...</p>
+            <div class="mt-4">
+                 <svg class="animate-spin h-8 w-8 text-indigo-600 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                </svg>
+            </div>
+        </div>
+
+        <div id="error" class="text-center hidden bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded-lg relative">
+            <strong class="font-bold">Error!</strong>
+            <span class="block sm:inline" id="error-message"></span>
+        </div>
+        
+        <div id="stop-info" class="hidden bg-white p-6 rounded-xl shadow-md mb-8">
+            <h2 class="text-2xl font-bold mb-2">Nearest Bus Stop</h2>
+            <p id="stop-name" class="text-xl text-gray-700"></p>
+        </div>
+
+        <div id="eta-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- ETA information will be displayed here -->
+        </div>
+    </div>
+
+    <script>
+        const findBtn = document.getElementById('find-btn');
+        const loadingDiv = document.getElementById('loading');
+        const errorDiv = document.getElementById('error');
+        const errorMessage = document.getElementById('error-message');
+        const stopInfoDiv = document.getElementById('stop-info');
+        const stopNameEl = document.getElementById('stop-name');
+        const etaListDiv = document.getElementById('eta-list');
+
+        findBtn.addEventListener('click', () => {
+            loadingDiv.classList.remove('hidden');
+            errorDiv.classList.add('hidden');
+            stopInfoDiv.classList.add('hidden');
+            etaListDiv.innerHTML = '';
+            
+            if (!navigator.geolocation) {
+                showError("Geolocation is not supported by your browser.");
+                return;
+            }
+
+            navigator.geolocation.getCurrentPosition(handleSuccess, handleError, { enableHighAccuracy: true });
+        });
+
+        function showError(message) {
+            loadingDiv.classList.add('hidden');
+            errorMessage.textContent = message;
+            errorDiv.classList.remove('hidden');
+        }
+
+        async function handleSuccess(position) {
+            const { latitude, longitude } = position.coords;
+
+            try {
+                // Fetch all bus stops
+                const stopsResponse = await fetch('https://data.etabus.gov.hk/v1/transport/kmb/stop');
+                if (!stopsResponse.ok) throw new Error(`HTTP error! status: ${stopsResponse.status}`);
+                const stopsData = await stopsResponse.json();
+                const stops = stopsData.data;
+
+                // Find the nearest stop
+                let nearestStop = null;
+                let minDistance = Infinity;
+
+                stops.forEach(stop => {
+                    const stopLat = parseFloat(stop.lat);
+                    const stopLong = parseFloat(stop.long);
+                    const distance = getDistance(latitude, longitude, stopLat, stopLong);
+
+                    if (distance < minDistance) {
+                        minDistance = distance;
+                        nearestStop = stop;
+                    }
+                });
+
+                if (nearestStop) {
+                    displayStopInfo(nearestStop);
+                    await fetchEta(nearestStop.stop);
+                } else {
+                    showError("Could not find any bus stops.");
+                }
+
+            } catch (error) {
+                console.error("Error fetching bus data:", error);
+                showError("Failed to fetch bus stop data. Please try again later.");
+            } finally {
+                loadingDiv.classList.add('hidden');
+            }
+        }
+
+        function handleError(error) {
+            let message = "An unknown error occurred.";
+            switch(error.code) {
+                case error.PERMISSION_DENIED:
+                    message = "You denied the request for Geolocation.";
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    message = "Location information is unavailable.";
+                    break;
+                case error.TIMEOUT:
+                    message = "The request to get user location timed out.";
+                    break;
+                case error.UNKNOWN_ERROR:
+                    message = "An unknown error occurred while getting location.";
+                    break;
+            }
+            showError(message);
+        }
+
+        // Haversine formula to calculate distance between two lat/long points
+        function getDistance(lat1, lon1, lat2, lon2) {
+            const R = 6371; // Radius of the earth in km
+            const dLat = deg2rad(lat2 - lat1);
+            const dLon = deg2rad(lon2 - lon1);
+            const a =
+                Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) *
+                Math.sin(dLon / 2) * Math.sin(dLon / 2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            return R * c; // Distance in km
+        }
+
+        function deg2rad(deg) {
+            return deg * (Math.PI / 180);
+        }
+
+        function displayStopInfo(stop) {
+            stopNameEl.textContent = `${stop.name_en} (${stop.name_tc})`;
+            stopInfoDiv.classList.remove('hidden');
+        }
+
+        async function fetchEta(stopId) {
+            try {
+                const etaResponse = await fetch(`https://data.etabus.gov.hk/v1/transport/kmb/stop-eta/${stopId}`);
+                if (!etaResponse.ok) {
+                    // It's possible a stop exists but has no ETA data, which can return a 404 or other error.
+                    if (etaResponse.status === 404 || etaResponse.status === 204) {
+                         etaListDiv.innerHTML = `<p class="text-center text-gray-500 col-span-full">No ETA information available for this stop at the moment.</p>`;
+                         return;
+                    }
+                    throw new Error(`HTTP error! status: ${etaResponse.status}`);
+                }
+                const etaData = await etaResponse.json();
+                displayEta(etaData.data);
+            } catch (error) {
+                console.error(`Error fetching ETA for stop ${stopId}:`, error);
+                etaListDiv.innerHTML = `<p class="text-center text-red-500 col-span-full">Could not load arrival times. Please try again.</p>`;
+            }
+        }
+
+        function displayEta(etas) {
+            etaListDiv.innerHTML = ''; // Clear previous results
+
+            if (etas.length === 0) {
+                etaListDiv.innerHTML = `<p class="text-center text-gray-500 col-span-full">No buses scheduled at this stop right now.</p>`;
+                return;
+            }
+            
+            // Sort by route number
+            etas.sort((a, b) => a.route.localeCompare(b.route, undefined, {numeric: true}));
+
+            etas.forEach(eta => {
+                const etaTime = new Date(eta.eta);
+                const now = new Date();
+                const diffMinutes = Math.round((etaTime - now) / (1000 * 60));
+                const arrivalText = diffMinutes <= 1 ? "Arriving" : `${diffMinutes} min`;
+
+                const card = `
+                    <div class="bg-white p-5 rounded-xl shadow-md bus-card">
+                        <div class="flex justify-between items-center">
+                            <div class="flex items-center">
+                                <span class="text-2xl font-bold bg-indigo-100 text-indigo-800 rounded-lg px-3 py-1">${eta.route}</span>
+                                <div class="ml-4">
+                                    <p class="text-lg font-semibold text-gray-800">${eta.dest_en}</p>
+                                    <p class="text-sm text-gray-500">${eta.dest_tc}</p>
+                                </div>
+                            </div>
+                            <div class="text-right">
+                                <p class="text-xl font-bold text-indigo-600">${arrivalText}</p>
+                                <p class="text-sm text-gray-500">${etaTime.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })}</p>
+                            </div>
+                        </div>
+                        ${eta.rmk_en ? `<p class="text-sm text-gray-600 mt-3 pt-3 border-t border-gray-200">${eta.rmk_en}</p>` : ''}
+                    </div>
+                `;
+                etaListDiv.innerHTML += card;
+            });
+        }
+    </script>
+</body>
+</html>
