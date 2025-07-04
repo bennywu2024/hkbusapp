@@ -52,7 +52,7 @@
             <p id="stop-name" class="text-xl text-gray-700"></p>
         </div>
 
-        <div id="eta-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div id="eta-list" class="grid grid-cols-1 gap-4">
             <!-- ETA information will be displayed here -->
         </div>
     </div>
@@ -171,7 +171,6 @@
             try {
                 const etaResponse = await fetch(`https://data.etabus.gov.hk/v1/transport/kmb/stop-eta/${stopId}`);
                 if (!etaResponse.ok) {
-                    // It's possible a stop exists but has no ETA data, which can return a 404 or other error.
                     if (etaResponse.status === 404 || etaResponse.status === 204) {
                          etaListDiv.innerHTML = `<p class="text-center text-gray-500 col-span-full">No ETA information available for this stop at the moment.</p>`;
                          return;
@@ -193,36 +192,78 @@
                 etaListDiv.innerHTML = `<p class="text-center text-gray-500 col-span-full">No buses scheduled at this stop right now.</p>`;
                 return;
             }
-            
-            // Sort by route number
-            etas.sort((a, b) => a.route.localeCompare(b.route, undefined, {numeric: true}));
 
+            const groupedEtas = {};
+
+            // Group ETAs by route, direction, and destination
             etas.forEach(eta => {
-                const etaTime = new Date(eta.eta);
-                const now = new Date();
-                const diffMinutes = Math.round((etaTime - now) / (1000 * 60));
-                const arrivalText = diffMinutes <= 1 ? "Arriving" : `${diffMinutes} min`;
+                const key = `${eta.route}|${eta.dir}|${eta.dest_en}`;
+                if (!groupedEtas[key]) {
+                    groupedEtas[key] = {
+                        route: eta.route,
+                        dest_en: eta.dest_en,
+                        dest_tc: eta.dest_tc,
+                        rmk_en: eta.rmk_en, // Use remark from the first ETA of the group
+                        times: []
+                    };
+                }
+                groupedEtas[key].times.push(new Date(eta.eta));
+            });
 
-                const card = `
-                    <div class="bg-white p-5 rounded-xl shadow-md bus-card">
-                        <div class="flex justify-between items-center">
-                            <div class="flex items-center">
-                                <span class="text-2xl font-bold bg-indigo-100 text-indigo-800 rounded-lg px-3 py-1">${eta.route}</span>
-                                <div class="ml-4">
-                                    <p class="text-lg font-semibold text-gray-800">${eta.dest_en}</p>
-                                    <p class="text-sm text-gray-500">${eta.dest_tc}</p>
+            // Get the keys and sort them by route number
+            const sortedKeys = Object.keys(groupedEtas).sort((a, b) => {
+                const routeA = groupedEtas[a].route;
+                const routeB = groupedEtas[b].route;
+                return routeA.localeCompare(routeB, undefined, { numeric: true });
+            });
+
+            if (sortedKeys.length === 0) {
+                etaListDiv.innerHTML = `<p class="text-center text-gray-500 col-span-full">No bus arrival times available.</p>`;
+                return;
+            }
+
+            // Build and display the HTML for each group
+            sortedKeys.forEach(key => {
+                const group = groupedEtas[key];
+                
+                // Sort times chronologically for each group
+                group.times.sort((a, b) => a - b);
+
+                const now = new Date();
+                const arrivalTexts = group.times.slice(0, 3).map(time => {
+                    const diffMinutes = Math.round((time - now) / (1000 * 60));
+                    // Ensure we don't show negative minutes for buses that just left
+                    if (diffMinutes < 0) return null; 
+                    return diffMinutes < 1 ? "Arriving" : `${diffMinutes} min`;
+                }).filter(Boolean); // Filter out any null values (buses that left)
+
+                // Only display the card if there are upcoming buses
+                if (arrivalTexts.length > 0) {
+                    const card = `
+                        <div class="bg-white p-4 rounded-xl shadow-md bus-card">
+                            <div class="grid grid-cols-1 sm:grid-cols-3 gap-x-4 gap-y-2 items-center">
+                                <div class="sm:col-span-2 flex items-center">
+                                    <span class="text-2xl w-20 text-center font-bold bg-indigo-100 text-indigo-800 rounded-lg px-3 py-1 mr-4 flex-shrink-0">${group.route}</span>
+                                    <div>
+                                        <p class="text-lg font-semibold text-gray-800">${group.dest_en}</p>
+                                        <p class="text-sm text-gray-500">${group.dest_tc}</p>
+                                    </div>
+                                </div>
+                                <div class="sm:col-span-1 text-left sm:text-right">
+                                    <p class="text-lg font-bold text-indigo-600">${arrivalTexts.join(', ')}</p>
                                 </div>
                             </div>
-                            <div class="text-right">
-                                <p class="text-xl font-bold text-indigo-600">${arrivalText}</p>
-                                <p class="text-sm text-gray-500">${etaTime.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })}</p>
-                            </div>
+                            ${group.rmk_en ? `<p class="text-sm text-gray-600 mt-3 pt-3 border-t border-gray-200">${group.rmk_en}</p>` : ''}
                         </div>
-                        ${eta.rmk_en ? `<p class="text-sm text-gray-600 mt-3 pt-3 border-t border-gray-200">${eta.rmk_en}</p>` : ''}
-                    </div>
-                `;
-                etaListDiv.innerHTML += card;
+                    `;
+                    etaListDiv.innerHTML += card;
+                }
             });
+
+            // If after filtering, there are no cards, show a message.
+            if (etaListDiv.innerHTML === '') {
+                etaListDiv.innerHTML = `<p class="text-center text-gray-500 col-span-full">No upcoming buses at this stop.</p>`;
+            }
         }
     </script>
 </body>
