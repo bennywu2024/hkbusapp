@@ -1,0 +1,1959 @@
+Company,Route,Origin,Destination,Service Type
+KMB,1,"竹園邨","尖沙咀碼頭",Regular
+KMB,1,"尖沙咀碼頭","竹園邨",Regular
+Citybus,1,"中環 (港澳碼頭)","跑馬地 (上)",Regular
+KMB,1A,"中秀茂坪","尖沙咀碼頭",Regular
+KMB,1A,"尖沙咀碼頭","中秀茂坪",Regular
+Citybus,1M,"會展站","跑馬地／黃泥涌峽",Regular
+Citybus,1P,"黃泥涌道 (樂活道)","中環",Regular
+KMB,2,"尖沙咀碼頭","長沙灣(蘇屋邨)",Regular
+KMB,2,"長沙灣(蘇屋邨)","尖沙咀碼頭",Regular
+Citybus,2,"嘉亨灣","中環 (港澳碼頭)",Regular
+KMB,2A,"樂華","美孚",Regular
+KMB,2A,"美孚","樂華",Regular
+Citybus,2A,"耀東邨","會展站",Regular
+KMB,2B,"竹園邨","長沙灣",Regular
+KMB,2B,"長沙灣","竹園邨",Regular
+KMB,2D,"澤安邨","黃大仙",Regular
+KMB,2D,"黃大仙","澤安邨",Regular
+KMB,2E,"九龍城碼頭","白田(北)",Regular
+KMB,2E,"白田(北)","九龍城碼頭",Regular
+KMB,2F,"慈雲山(北)","長沙灣",Regular
+KMB,2F,"慈雲山(北)","長沙灣",Special Service
+KMB,2F,"長沙灣","慈雲山(北)",Regular
+KMB,2P,"長沙灣","慈雲山(北)",Regular
+KMB,2X,"彩福","美孚",Regular
+KMB,2X,"美孚","彩福",Regular
+Citybus,2X,"嘉亨灣","會展站",Regular
+Citybus,3A,"中環 (天星碼頭)","摩星嶺",Regular
+KMB,3B,"慈雲山(中)","紅磡(紅鸞道)",Regular
+KMB,3B,"紅磡(紅鸞道)","慈雲山(中)",Regular
+KMB,3B,"紅磡(紅鸞道)","慈雲山(中)",Special Service
+KMB,3C,"慈雲山(北)","中港碼頭",Regular
+KMB,3C,"中港碼頭","慈雲山(北)",Regular
+KMB,3D,"慈雲山(中)","觀塘(裕民坊)",Regular
+KMB,3D,"慈雲山(南)","觀塘(裕民坊)",Special Service
+KMB,3D,"正康樓","觀塘(裕民坊)",Special Service
+KMB,3D,"觀塘(裕民坊)","慈雲山(中)",Regular
+KMB,3D,"觀塘(裕民坊)","慈雲山(南)",Special Service
+KMB,3M,"慈雲山(北)","彩雲",Regular
+KMB,3M,"彩雲","慈雲山(北)",Regular
+KMB,3M,"彩雲","慈雲山(南)",Special Service
+KMB,3S,"鑽石山站","鑽石山墳場(循環線)",Regular
+KMB,3X,"慈雲山(北)","中港碼頭",Regular
+KMB,3X,"慈雲山(北)","中港碼頭",Special Service
+KMB,3X,"佐敦(西九龍站)","慈雲山(北)",Regular
+Citybus,4,"黃竹坑／華富 (南)","中環",Regular
+Citybus,4X,"華富 (南)","中環 (交易廣場)",Regular
+KMB,5,"富山邨","尖沙咀碼頭",Regular
+KMB,5,"尖沙咀碼頭","富山邨",Regular
+KMB,5A,"啟德(啟晴邨)","尖沙咀碼頭",Regular
+KMB,5A,"尖沙咀碼頭","啟德(啟晴邨)",Regular
+Citybus,5B,"摩星嶺／堅尼地城","銅鑼灣／香港大球場",Regular
+KMB,5C,"慈雲山(中)","尖沙咀碼頭",Regular
+KMB,5C,"毓華街","尖沙咀碼頭",Special Service
+KMB,5C,"尖沙咀碼頭","慈雲山(中)",Regular
+KMB,5C,"尖沙咀碼頭","慈雲山(中)",Special Service
+KMB,5D,"德福花園","紅磡(循環線)",Regular
+KMB,5M,"啟德(德朗邨)","九龍灣站(循環線)",Regular
+KMB,5P,"慈雲山(中)","尖沙咀碼頭",Regular
+KMB,5P,"尖沙咀碼頭","慈雲山(中)",Regular
+KMB,5R,"啟德郵輪碼頭","觀塘 (apm) (循環線)",Regular
+KMB,5R,"啟德郵輪碼頭","觀塘 (apm)",Special Service
+KMB,5R,"牛頭角站","啟德郵輪碼頭",Special Service
+Citybus,5X,"堅尼地城","銅鑼灣 (威非路道)",Regular
+KMB,6,"尖沙咀碼頭","荔枝角",Regular
+KMB,6,"荔枝角","尖沙咀碼頭",Regular
+Citybus,6,"中環 (交易廣場)","赤柱市場",Regular
+Citybus,6A,"中環 (交易廣場)","赤柱炮台 (閘口)",Regular
+KMB,6C,"九龍城碼頭","美孚",Regular
+KMB,6C,"美孚","九龍城碼頭",Regular
+KMB,6D,"牛頭角","美孚",Regular
+KMB,6D,"美孚","牛頭角",Regular
+KMB,6E,"長沙灣(蘇屋邨)","鯉魚門邨",Regular
+KMB,6E,"鯉魚門邨","長沙灣(蘇屋邨)",Regular
+KMB,6F,"九龍城碼頭","長沙灣(麗閣邨)",Regular
+KMB,6F,"長沙灣(麗閣邨)","九龍城碼頭",Regular
+KMB,6P,"長沙灣(蘇屋邨)","鯉魚門邨",Regular
+KMB,6P,"鯉魚門邨","長沙灣(蘇屋邨)",Regular
+KMB,6R,"美孚(美荔道)","昂船洲軍營(循環線)",Regular
+KMB,6X,"盛德街","美孚",Regular
+KMB,6X,"美孚","九龍城碼頭",Regular
+Citybus,6X,"中環 (交易廣場)","赤柱市場",Regular
+KMB,7,"尖沙咀碼頭","樂富",Regular
+KMB,7,"樂富","尖沙咀碼頭",Regular
+Citybus,7,"石排灣","中環碼頭",Regular
+KMB,7B,"紅磡(紅鸞道)","樂富",Regular
+KMB,7B,"樂富","紅磡(紅鸞道)",Regular
+KMB,7M,"樂富","竹園邨(循環線)",Regular
+KMB,8,"尖沙咀碼頭","九龍站",Regular
+KMB,8,"九龍站","尖沙咀碼頭",Regular
+Citybus,8,"杏花邨","會展站",Regular
+KMB,8A,"黃埔花園","尖沙咀(循環線)",Regular
+Citybus,8H,"小西灣 (藍灣半島)","東華東院",Regular
+KMB,8P,"海逸豪園","尖沙咀(循環線)",Regular
+KMB,8P,"海逸豪園","尖沙咀漢口道",Special Service
+Citybus,8P,"小西灣 (藍灣半島)","會展站",Regular
+Citybus,8S,"跑馬地馬場","小西灣 (藍灣半島)",Regular
+Citybus,8X,"小西灣 (藍灣半島)","跑馬地 (上)",Regular
+KMB,9,"彩福","尖沙咀東(麼地道)",Regular
+KMB,9,"尖沙咀東(麼地道)","彩福",Regular
+Citybus,9,"筲箕灣","石澳",Regular
+Citybus,9C,"筲箕灣","歌連臣角",Regular
+KMB,10,"彩雲","大角咀(循環線)",Regular
+Citybus,10,"堅尼地城","北角碼頭",Regular
+KMB,11,"鑽石山站","九龍站",Regular
+KMB,11,"九龍站","鑽石山站",Regular
+Citybus,11,"中環碼頭","渣甸山",Regular
+KMB,11B,"觀塘(翠屏道)","九龍城碼頭",Regular
+KMB,11B,"九龍城碼頭","觀塘(翠屏道)",Regular
+KMB,11C,"竹園邨","上秀茂坪",Regular
+KMB,11C,"上秀茂坪","竹園邨",Regular
+KMB,11D,"樂富","觀塘碼頭",Regular
+KMB,11D,"觀塘碼頭","樂富",Regular
+KMB,11K,"竹園邨","紅磡站",Regular
+KMB,11K,"紅磡站","竹園邨",Regular
+KMB,11X,"安泰(北)","紅磡站",Regular
+KMB,11X,"紅磡站","安泰(北)",Regular
+KMB,12,"海麗邨","尖沙咀東(麼地道)",Regular
+KMB,12,"尖沙咀東(麼地道)","海麗邨",Regular
+Citybus,12,"中環3號碼頭","羅便臣道／柏道",Regular
+KMB,12A,"黃埔花園","長沙灣(海達邨)",Regular
+KMB,12A,"長沙灣(海達邨)","黃埔花園",Regular
+Citybus,12A,"金鐘 (添馬街)","麥當勞道",Regular
+Citybus,12M,"金鐘 (添馬街)","柏道",Regular
+KMB,12P,"海麗邨","紅磡站",Regular
+Citybus,13,"金鐘 (添馬街)","旭龢道 (半山區)",Regular
+KMB,13D,"寶達","維港灣",Regular
+KMB,13D,"寶達","維港灣",Special Service
+KMB,13D,"維港灣","寶達",Regular
+KMB,13M,"觀塘(雅麗道)","寶達(循環線)",Regular
+KMB,13M,"寶達","觀塘站",Special Service
+KMB,13P,"寶達","長沙灣(麗閣邨)",Regular
+KMB,13X,"寶達","尖沙咀東",Regular
+KMB,13X,"寶達","尖沙咀東",Special Service
+KMB,13X,"彩褔","尖沙咀東",Special Service
+KMB,13X,"寶達","尖沙咀東",Special Service
+KMB,13X,"尖沙咀東","寶達",Regular
+KMB,13X,"尖沙咀東","寶達",Special Service
+KMB,14,"鯉魚門邨","中港碼頭",Regular
+KMB,14,"中港碼頭","鯉魚門邨",Regular
+Citybus,14,"嘉亨灣","赤柱炮台 (閘口)／馬坑",Regular
+KMB,14B,"牛頭角","藍田(廣田邨)",Regular
+KMB,14B,"樂華","藍田(廣田邨)",Special Service
+KMB,14B,"藍田(廣田邨)","牛頭角",Regular
+KMB,14D,"油塘","彩虹",Regular
+KMB,14D,"藍田(廣田邨)","彩虹",Special Service
+KMB,14D,"彩虹","油塘",Regular
+KMB,14H,"油塘","順利(循環線)",Regular
+KMB,14S,"油塘","將軍澳墳場(循環線)",Regular
+KMB,14X,"油塘(崇德圍)","尖沙咀(循環線)",Regular
+KMB,15,"平田","紅磡(紅鸞道)",Regular
+KMB,15,"紅磡(紅鸞道)","平田",Regular
+Citybus,15,"中環","山頂",Regular
+KMB,15A,"平田","慈雲山(北)",Regular
+KMB,15A,"慈雲山(北)","平田",Regular
+Citybus,15B,"灣仔 (會展新翼)","山頂",Regular
+Citybus,15C,"中環 (香港摩天輪)","花園道",Regular
+KMB,15X,"藍田(廣田邨)","紅磡站",Regular
+KMB,15X,"紅磡站","藍田(廣田邨)",Regular
+KMB,16,"藍田(廣田邨)","旺角(柏景灣)",Regular
+KMB,16,"平田","旺角(柏景灣)",Special Service
+KMB,16,"旺角(柏景灣)","藍田(廣田邨)",Regular
+KMB,16M,"觀塘(裕民坊)","藍田(康華苑)(循環線)",Regular
+KMB,16P,"觀塘碼頭","旺角(柏景灣)",Regular
+KMB,16P,"旺角(柏景灣)","觀塘碼頭",Regular
+KMB,16X,"藍田(廣田邨)","旺角(柏景灣)",Regular
+KMB,16X,"旺角(柏景灣)","藍田(廣田邨)",Regular
+KMB,17,"觀塘(裕民坊)","何文田(愛民邨)",Regular
+KMB,17,"九龍灣站","何文田(愛民邨)",Special Service
+KMB,17,"太子道東(麗晶花園)","何文田(愛民邨)",Special Service
+KMB,17,"何文田(愛民邨)","觀塘(裕民坊)",Regular
+KMB,18,"長沙灣(海達邨)","愛民(循環線)",Regular
+Citybus,18,"北角 (健康中街)","堅尼地城 (卑路乍灣)／上環",Regular
+Citybus,18P,"堅尼地城 (卑路乍灣)","北角 (健康中街)",Regular
+Citybus,18X,"筲箕灣","堅尼地城 (卑路乍灣)",Regular
+KMB,19,"安達臣","鑽石山(啟翔苑)",Regular
+KMB,19,"鑽石山(啟翔苑)","安達臣",Regular
+Citybus,19P,"筲箕灣","跑馬地 (上)",Regular
+Citybus,20,"啟德 (沐安街)","長沙灣 (海達)",Regular
+Citybus,20A,"啟德郵輪碼頭 (經:旺角)","高鐵西九龍站 (經:旺角)",Regular
+Citybus,20R,"啟德郵輪碼頭","尖沙咀／高鐵西九龍站",Regular
+KMB,21,"彩雲","紅磡站",Regular
+KMB,21,"紅磡站","彩雲",Regular
+Citybus,22,"啟德郵輪碼頭","九龍塘 (又一城)",Regular
+Citybus,22D,"啟德站","啟德跑道區",Regular
+Citybus,22M,"啟德郵輪碼頭","土瓜灣",Regular
+Citybus,22R,"啟德站","啟德郵輪碼頭",Regular
+Citybus,22X,"維港1號","啟德站",Regular
+KMB,23,"觀塘碼頭","順利(循環線)",Regular
+KMB,23,"順天","觀塘碼頭",Special Service
+Citybus,23,"北角碼頭","蒲飛路",Regular
+Citybus,23B,"寶馬山","柏道／羅便臣道",Regular
+KMB,23M,"樂華","順利(循環線)",Regular
+KMB,23M,"樂華","順利(循環線)",Special Service
+Citybus,23X,"蒲飛路","西灣河",Regular
+KMB,24,"啟業","旺角(循環線)",Regular
+KMB,24,"啟業","旺角(循環線)",Special Service
+KMB,24,"啟業","旺角(循環線)",Special Service
+Citybus,25,"中環 (3 / 5 號碼頭)","寶馬山",Regular
+Citybus,25A,"會展站","寶馬山",Regular
+KMB,25R,"啟德郵輪碼頭","apm創紀之城5期",Regular
+KMB,26,"順天","尖沙咀東",Regular
+KMB,26,"尖沙咀東","順天",Regular
+Citybus,26,"勵德邨","荷李活道",Regular
+KMB,26M,"彩虹","觀塘(循環線)",Regular
+KMB,26X,"順天","尖沙咀東",Regular
+KMB,26X,"尖沙咀東","順天",Regular
+KMB,27,"順天","旺角(循環線)",Regular
+Citybus,27,"北角碼頭","寶馬山",Regular
+KMB,27X,"順天","奧運站",Regular
+KMB,27X,"奧運站","順天",Regular
+KMB,28,"樂華","尖沙咀碼頭",Regular
+KMB,28,"尖沙咀碼頭","樂華",Regular
+KMB,28B,"彩福","啟德(啟晴邨)",Regular
+KMB,28B,"啟德(啟晴邨)","彩福",Regular
+KMB,28B,"啟德(啟晴邨)","彩福",Special Service
+KMB,28S,"觀塘(裕民坊)","樂華",Regular
+KMB,29M,"順利","新蒲崗(循環線)",Regular
+KMB,30,"荃灣(荃威花園)","長沙灣",Regular
+KMB,30,"長沙灣","荃灣(荃威花園)",Regular
+KMB,30X,"荃灣(荃威花園)","黃埔花園",Regular
+KMB,30X,"黃埔花園","荃灣(荃威花園)",Regular
+KMB,30X,"黃埔花園","荃灣(荃威花園)",Special Service
+Citybus,30X,"數碼港","金鐘(東)",Regular
+KMB,31,"荃灣西站","石籬(循環線)",Regular
+KMB,31A,"葵涌邨","石籬(大隴街)",Regular
+KMB,31B,"石籬(大隴街)","奧運站",Regular
+KMB,31B,"奧運站","石籬(大隴街)",Regular
+KMB,31M,"石籬(梨貝街)","葵芳站",Regular
+KMB,31M,"葵芳站","石籬(梨貝街)",Regular
+KMB,31P,"石籬商場","葵芳站",Regular
+KMB,32,"荃灣(石圍角)","奧運站",Regular
+KMB,32,"奧運站","荃灣(石圍角)",Regular
+KMB,32H,"象山","荔枝角",Regular
+KMB,32H,"荔枝角","象山",Regular
+KMB,32M,"葵芳站","象山(循環線)",Regular
+KMB,32P,"荃灣(青山公路)","圓玄學院",Regular
+KMB,32P,"圓玄學院","荃灣(青山公路)",Regular
+KMB,33,"荃灣西站","油塘",Regular
+KMB,33,"油塘","荃灣西站",Regular
+KMB,33A,"荃灣(如心廣場)","旺角(柏景灣)",Regular
+KMB,33A,"旺角(柏景灣)","荃灣(如心廣場)",Regular
+KMB,33B,"荃灣西站","油塘",Regular
+KMB,33B,"油塘","荃灣西站",Regular
+KMB,33R,"荃灣(愉景新城)","北潭涌",Regular
+KMB,33R,"北潭涌","荃灣(愉景新城)",Regular
+Citybus,33X,"數碼港","西灣河",Regular
+KMB,34,"葵盛(中)","荃灣(灣景花園)",Regular
+KMB,34,"荃灣(灣景花園)","葵盛(中)",Regular
+KMB,34,"大窩口道富安樓","葵盛(中)",Special Service
+KMB,34M,"荃灣(灣景花園)","荃灣站(循環線)",Regular
+KMB,35A,"葵涌(安蔭邨)","尖沙咀東",Regular
+KMB,35A,"尖沙咀東","葵涌(安蔭邨)",Regular
+KMB,35X,"葵涌(安蔭邨)","尖沙咀東",Regular
+KMB,35X,"尖沙咀東","葵涌(安蔭邨)",Regular
+KMB,36,"荃灣西站","梨木樹(循環線)",Regular
+KMB,36,"梨木樹","荃灣西站",Special Service
+KMB,36A,"梨木樹","長沙灣(海達邨)(循環線)",Regular
+KMB,36B,"梨木樹","佐敦(西九龍站)",Regular
+KMB,36B,"佐敦(西九龍站)","梨木樹",Regular
+KMB,36M,"梨木樹","葵芳站",Regular
+KMB,36M,"葵芳站","梨木樹",Regular
+KMB,36R,"紅磡香港體育館","石圍角",Regular
+KMB,36X,"梨木樹","尖沙咀東(麼地道)",Regular
+KMB,36X,"尖沙咀東(麼地道)","梨木樹",Regular
+KMB,37,"奧運站","葵盛(中)",Regular
+KMB,37,"奧運站","葵盛(中)",Special Service
+KMB,37,"葵盛(中)","奧運站",Regular
+Citybus,37A,"置富花園","中環",Regular
+Citybus,37B,"置富花園","金鐘",Regular
+KMB,37M,"葵興站","葵盛中(循環線)",Regular
+KMB,37X,"葵涌邨","油麻地",Regular
+Citybus,37X,"置富花園","金鐘",Regular
+KMB,38,"葵盛(東)","平田",Regular
+KMB,38,"平田","葵盛(東)",Regular
+Citybus,38,"置富花園","北角碼頭",Regular
+KMB,38A,"荃灣(海濱花園)","美孚",Regular
+KMB,38A,"美孚","荃灣(海濱花園)",Regular
+KMB,38B,"荃灣(海濱花園)","碩門邨",Regular
+KMB,38B,"碩門邨","荃灣(海濱花園)",Regular
+KMB,38P,"葵盛(中)","平田",Regular
+KMB,38P,"平田","葵盛(中)",Regular
+KMB,38S,"葵芳站","荃灣華人永遠墳場",Regular
+KMB,38S,"荃灣華人永遠墳場","葵芳站",Regular
+KMB,39A,"荃灣西站","荃威花園(循環線)",Regular
+KMB,39M,"荃灣(荃威花園)","荃灣站(循環線)",Regular
+KMB,40,"荃灣(麗城花園)","麗港城",Regular
+KMB,40,"荃灣(麗城花園)","麗港城",Special Service
+KMB,40,"麗港城","荃灣(麗城花園)",Regular
+Citybus,40,"華富 (北)","會展站",Regular
+KMB,40A,"葵興站","平田",Regular
+KMB,40B,"葵涌邨","平田",Regular
+KMB,40E,"泥涌","葵涌(葵芳邨)",Regular
+KMB,40E,"葵芳(南)","泥涌",Regular
+Citybus,40M,"華富 (北)","會展站",Regular
+KMB,40P,"荃灣(如心廣場)","觀塘碼頭",Regular
+KMB,40P,"石蔭東邨","觀塘碼頭",Special Service
+KMB,40P,"觀塘碼頭","荃灣(如心廣場)",Regular
+Citybus,40P,"華富 (北)","羅便臣道",Regular
+KMB,40X,"烏溪沙站","葵涌邨",Regular
+KMB,40X,"烏溪沙站","葵芳(南)",Special Service
+KMB,40X,"葵涌邨","烏溪沙站",Regular
+KMB,41A,"青衣(長安邨)","尖沙咀東",Regular
+KMB,41A,"尖沙咀東","青衣(長安邨)",Regular
+Citybus,41A,"華富 (中)","北角碼頭",Regular
+KMB,41M,"青衣碼頭","荃灣站",Regular
+KMB,41M,"荃灣站","青衣碼頭",Regular
+KMB,41R,"紅磡香港體育館","青衣(長青邨)",Regular
+KMB,42,"青衣(長康邨)","順利",Regular
+KMB,42,"順利","青衣(長康邨)",Regular
+Citybus,42,"華富 (南)","北角碼頭",Regular
+KMB,42A,"青衣(長亨邨)","佐敦(西九龍站)",Regular
+KMB,42A,"佐敦(西九龍站)","青衣(長亨邨)",Regular
+KMB,42C,"青衣(長亨邨)","藍田站",Regular
+KMB,42C,"藍田站","青衣(長亨邨)",Regular
+Citybus,42C,"數碼港","北角碼頭",Regular
+KMB,42M,"青衣(長宏邨)","荃灣(愉景新城)",Regular
+KMB,42M,"荃灣(愉景新城)","青衣(長宏邨)",Regular
+KMB,43,"青衣(長康邨)","荃灣西站",Regular
+KMB,43,"荃灣西站","青衣(長康邨)",Regular
+KMB,43A,"青衣(長宏邨)","石籬(大隴街)",Regular
+KMB,43A,"石籬(大隴街)","青衣(長宏邨)",Regular
+KMB,43B,"青衣(長青邨)","荃灣西站",Regular
+KMB,43B,"荃灣西站","青衣(長青邨)",Regular
+KMB,43C,"青衣(長康邨)","維港灣",Regular
+KMB,43C,"維港灣","青衣(長亨邨)",Regular
+KMB,43D,"青衣(長宏邨)","葵盛",Regular
+KMB,43M,"葵芳站","長青(循環線)",Regular
+Citybus,43M,"田灣","石塘咀",Regular
+KMB,43P,"荃灣西站","香港科學園",Regular
+KMB,43P,"香港科學園","荃灣西站",Regular
+Citybus,43R,"堅尼地城站","堅尼地城",Regular
+KMB,43S,"石蔭","香港科學園",Regular
+KMB,43S,"香港科學園","石蔭",Regular
+KMB,43X,"耀安","荃灣西站",Regular
+KMB,43X,"保泰街","荃灣西站",Special Service
+KMB,43X,"荃灣西站","耀安",Regular
+KMB,44,"青衣邨","旺角東站",Regular
+KMB,44,"旺角東站","青衣邨",Regular
+KMB,44M,"青衣站","葵涌邨",Regular
+KMB,44M,"青衣(長安邨)","葵興站",Special Service
+KMB,44M,"葵涌邨","青衣站",Regular
+KMB,45,"九龍城碼頭","葵涌(麗瑤邨)",Regular
+KMB,45,"葵涌(麗瑤邨)","九龍城碼頭",Regular
+KMB,46,"佐敦(西九龍站)","葵涌(麗瑤邨)",Regular
+KMB,46,"葵涌(麗瑤邨)","佐敦(西九龍站)",Regular
+KMB,46P,"美田","葵芳站",Regular
+KMB,46P,"葵芳站","美田",Regular
+KMB,46R,"大圍站","昂船洲軍營",Regular
+KMB,46R,"昂船洲軍營","大圍站",Regular
+KMB,46S,"顯徑","荃灣(如心廣場)",Regular
+KMB,46S,"荃灣(如心廣場)","顯徑",Regular
+KMB,46X,"顯徑","美孚",Regular
+KMB,46X,"美孚","顯徑",Regular
+KMB,47A,"水泉澳","葵芳(南)",Regular
+KMB,47A,"水泉澳","葵芳(南)",Special Service
+KMB,47A,"葵芳(南)","水泉澳",Regular
+Citybus,47P,"堅尼地城 (卑路乍灣)","黃竹坑",Regular
+KMB,47X,"秦石","葵盛(東)",Regular
+KMB,47X,"秦石","葵盛(東)",Special Service
+KMB,47X,"新田圍","葵盛(東)",Special Service
+KMB,47X,"葵盛(東)","秦石",Regular
+Citybus,48,"深灣／海洋公園","華富 (北)",Regular
+KMB,48P,"火炭駿洋邨","青龍頭",Regular
+KMB,48P,"青龍頭","火炭駿洋邨",Regular
+KMB,48X,"禾輋","荃灣(灣景花園)",Regular
+KMB,48X,"荃灣(灣景花園)","禾輋",Regular
+KMB,49,"青富苑","將軍澳工業邨",Regular
+KMB,49,"將軍澳工業邨","青富苑",Regular
+KMB,49A,"青富苑","荃灣西站",Regular
+KMB,49A,"荃灣西站","青富苑",Regular
+KMB,49M,"青衣(青富苑)","青衣站(循環線)",Regular
+KMB,49P,"沙田巿中心","青衣碼頭",Regular
+KMB,49X,"廣源","青衣碼頭",Regular
+KMB,49X,"碩門邨","青衣碼頭",Special Service
+KMB,49X,"廣源","青衣碼頭",Special Service
+KMB,49X,"青衣碼頭","廣源",Regular
+Citybus,49X,"小西灣 (藍灣半島)","數碼港",Regular
+Citybus,50,"屯門 (菁田及和田)","尖沙咀 (九龍站)",Regular
+Citybus,50M,"和田邨","屯門站",Regular
+Citybus,50R,"香港體育館","屯門 (菁田及和田)",Regular
+KMB,51,"荃灣(如心廣場)","上村(循環線)",Regular
+KMB,52P,"掃管笏","旺角(柏景灣)",Regular
+KMB,52X,"屯門巿中心","旺角(柏景灣)",Regular
+KMB,52X,"旺角(柏景灣)","屯門巿中心",Regular
+KMB,53,"元朗 形點","荃灣(如心廣場)",Regular
+KMB,53,"荃灣(如心廣場)","元朗 形點",Regular
+KMB,54,"元朗(西)","上村(循環線)",Regular
+Citybus,55,"屯門 (菁田及和田)","觀塘碼頭",Regular
+Citybus,56,"屯門 (和田及菁田)","上水 (天平邨)",Regular
+Citybus,56A,"屯門 (和田及菁田)","粉嶺皇后山 (經:上水站)",Regular
+KMB,57M,"屯門(山景邨)","荔景(北)",Regular
+KMB,57M,"荔景(北)","屯門(山景邨)",Regular
+KMB,58M,"屯門(良景邨)","葵芳站",Regular
+KMB,58M,"屯門(建生邨)","葵芳站",Special Service
+KMB,58M,"屯門(寶田邨)","葵芳站",Special Service
+KMB,58M,"葵芳站","屯門(良景邨)",Regular
+KMB,58P,"葵芳站","田景邨(田裕樓)",Regular
+KMB,58X,"屯門(良景邨)","旺角東站",Regular
+KMB,58X,"屯門(建生邨)","旺角東站",Special Service
+KMB,58X,"旺角東站","屯門(良景邨)",Regular
+KMB,59A,"屯門碼頭","葵芳(葵翠邨)",Regular
+KMB,59A,"葵芳(葵翠邨)","屯門碼頭",Regular
+KMB,59M,"屯門碼頭","荃灣站",Regular
+KMB,59M,"悅湖山莊","荃灣站",Special Service
+KMB,59M,"新屯門中心","荃灣站",Special Service
+KMB,59M,"荃灣站","屯門碼頭",Regular
+KMB,59X,"屯門碼頭","旺角東站",Regular
+KMB,59X,"新屯門中心","旺角東站",Special Service
+KMB,59X,"屯門(龍門居)","旺角東站",Special Service
+KMB,59X,"旺角東站","屯門碼頭",Regular
+KMB,60M,"屯門站","荃灣站",Regular
+KMB,60M,"荃灣站","屯門站",Regular
+KMB,60X,"屯門巿中心","佐敦(西九龍站)",Regular
+KMB,60X,"佐敦(西九龍站)","屯門巿中心",Regular
+KMB,61A,"屯門(友愛南)","屯門公路轉車站- 市區方向",Regular
+KMB,61M,"屯門(友愛南)","荔景(北)",Regular
+KMB,61M,"荔景(北)","屯門(友愛南)",Regular
+KMB,61P,"掃管笏","荃灣站",Regular
+KMB,61P,"荃灣站","掃管笏",Regular
+Citybus,61R,"沙田第一城","藍田站",Regular
+KMB,61X,"屯門巿中心","九龍城碼頭",Regular
+KMB,61X,"九龍城碼頭","屯門巿中心",Regular
+KMB,62P,"屯門巿中心","鯉魚門邨",Regular
+KMB,62X,"兆康站(南)","鯉魚門邨",Regular
+KMB,62X,"鯉魚門邨","兆康站(南)",Regular
+Citybus,63,"北角碼頭","赤柱市場",Regular
+KMB,63X,"洪水橋(洪福邨)","佐敦(西九龍站)",Regular
+KMB,63X,"佐敦(西九龍站)","洪水橋(洪福邨)",Regular
+KMB,64K,"元朗(西)","大埔墟站",Regular
+KMB,64K,"梧桐寨 (白牛石)","大埔(太和)",Special Service
+KMB,64K,"大埔墟站","元朗(西)",Regular
+KMB,64P,"大埔墟站","嘉道理農場",Regular
+KMB,64S,"上村球場","錦上路站",Regular
+KMB,64X,"洪水橋(洪元路)","香港科學園",Regular
+Citybus,65,"北角碼頭","赤柱市場",Regular
+KMB,65K,"梧桐寨 (白牛石)","大埔中心",Regular
+KMB,65X,"天恩邨","香港科學園",Regular
+Citybus,66,"中環 (交易廣場)","赤柱廣場 (馬坑)",Regular
+KMB,66M,"屯門(大興邨)","荃灣(如心廣場)",Regular
+KMB,66M,"荃灣(如心廣場)","屯門(大興邨)",Regular
+KMB,66X,"屯門(大興邨)","奧運站",Regular
+KMB,66X,"奧運站","屯門(大興邨)",Regular
+KMB,67A,"屯門(寶田邨)","葵芳(葵翠邨)",Regular
+KMB,67A,"葵芳(葵翠邨)","屯門(寶田邨)",Regular
+KMB,67M,"屯門(兆康苑)","葵芳站",Regular
+KMB,67M,"葵芳站","屯門(兆康苑)",Regular
+KMB,67X,"屯門(兆康苑)","旺角東站",Regular
+KMB,67X,"旺角東站","屯門(兆康苑)",Regular
+KMB,68,"峻巒","形點 (循環線)",Regular
+KMB,68A,"朗屏邨","青衣站",Regular
+KMB,68A,"青衣站","朗屏邨",Regular
+KMB,68E,"元朗公園","青衣站",Regular
+KMB,68E,"青衣站","元朗公園",Regular
+KMB,68F,"峻巒","元朗公園(循環線)",Regular
+KMB,68M,"荃灣站","元朗(西)",Regular
+KMB,68M,"元朗(西)","荃灣站",Regular
+KMB,68X,"洪水橋(洪福邨)","旺角(柏景灣)",Regular
+KMB,68X,"元朗(西)","旺角(柏景灣)",Special Service
+KMB,68X,"朗屏邨悅屏樓","旺角(柏景灣)",Special Service
+KMB,68X,"旺角(柏景灣)","洪水橋(洪福邨)",Regular
+KMB,69,"天水圍市中心","元朗(德業街)",Regular
+KMB,69,"元朗(德業街)","天水圍市中心",Regular
+KMB,69C,"天恩邨","觀塘碼頭",Regular
+KMB,69C,"天恩邨","觀塘碼頭",Special Service
+KMB,69C,"觀塘碼頭","天恩邨",Regular
+KMB,69M,"葵芳站","天水圍市中心",Regular
+KMB,69M,"天水圍市中心","葵芳站",Regular
+KMB,69P,"天水圍站","葵芳站",Regular
+KMB,69X,"天瑞","佐敦(西九龍站)",Regular
+KMB,69X,"天耀","佐敦(西九龍站)",Special Service
+KMB,69X,"佐敦(西九龍站)","天瑞",Regular
+Citybus,70,"華貴 (經:香港仔)","中環 (交易廣場)",Regular
+KMB,70K,"粉嶺(華明)","清河(循環線)",Regular
+KMB,70K,"上水(清河)","粉嶺(華明)",Special Service
+Citybus,70P,"石排灣 (經:香港仔)","中環 (交易廣場)",Regular
+KMB,70S,"紅磡站","和合石",Regular
+KMB,70S,"和合石","紅磡站",Regular
+Citybus,71,"黃竹坑","中環 (林士街)",Regular
+KMB,71A,"大埔(富亨)","大埔墟站",Regular
+KMB,71A,"大埔墟站","大埔(富亨)",Regular
+KMB,71B,"大埔(富亨)","大埔中心(循環線)",Regular
+KMB,71K,"大埔(太和)","大埔墟站",Regular
+KMB,71K,"大埔墟站","大埔(太和)",Regular
+Citybus,71P,"深灣","中環碼頭",Regular
+KMB,71S,"大埔(富善)","廣福(循環線)",Regular
+KMB,72,"大埔(太和)","長沙灣",Regular
+KMB,72,"長沙灣","大埔(太和)",Regular
+Citybus,72,"華貴邨","銅鑼灣 (摩頓台)",Regular
+KMB,72A,"大圍站","大埔工業邨",Regular
+KMB,72A,"大埔工業邨","大圍站",Regular
+Citybus,72A,"深灣","銅鑼灣 (摩頓台)",Regular
+KMB,72C,"大美督","大埔墟站",Regular
+KMB,72K,"富蝶總站","太和 (循環線)",Regular
+KMB,72X,"富蝶總站","旺角(柏景灣)",Regular
+KMB,72X,"旺角(柏景灣)","富蝶總站",Regular
+KMB,73,"粉嶺(華明)","大埔工業邨",Regular
+KMB,73,"粉嶺(華明)","大埔中心",Special Service
+KMB,73,"大埔工業邨","粉嶺(華明)",Regular
+KMB,73,"大埔中心","粉嶺(華明)",Special Service
+Citybus,73,"數碼港／華富 (北)","赤柱市場",Regular
+KMB,73A,"粉嶺(華明)","愉翠苑",Regular
+KMB,73A,"愉翠苑","粉嶺(華明)",Regular
+KMB,73B,"全安路(那打素醫院)","上水(循環線)",Regular
+KMB,73B,"海聯廣場","全安路(那打素醫院)",Special Service
+KMB,73B,"全安路(那打素醫院)","上水站",Special Service
+KMB,73D,"荃灣(如心廣場)","大埔(富善)",Regular
+KMB,73D,"廣福街市","荃灣(如心廣場)",Regular
+KMB,73F,"荃灣(如心廣場)","香港教育大學",Regular
+KMB,73F,"香港教育大學","荃灣(如心廣場)",Regular
+KMB,73K,"上水","文錦渡(新屋嶺)",Regular
+KMB,73K,"文錦渡(新屋嶺)","上水",Regular
+KMB,73P,"荃灣(如心廣場)","大美督",Regular
+KMB,73P,"大美督","荃灣(如心廣場)",Regular
+Citybus,73P,"深灣","數碼港",Regular
+KMB,73X,"荃灣(如心廣場)","大埔(富善)",Regular
+KMB,73X,"荃灣(如心廣場)","大埔(富善)",Special Service
+KMB,73X,"大埔(富善)","荃灣(如心廣場)",Regular
+KMB,74,"富蝶總站","油塘",Regular
+KMB,74,"油塘","富蝶總站",Regular
+KMB,74A,"大埔(太和)","啟業",Regular
+KMB,74A,"啟業","大埔(太和)",Regular
+KMB,74B,"九龍灣","大埔中心",Regular
+KMB,74B,"大埔中心","觀塘碼頭",Regular
+KMB,74C,"九龍坑","觀塘碼頭",Regular
+KMB,74D,"九龍坑","觀塘碼頭",Regular
+KMB,74D,"觀塘碼頭","九龍坑",Regular
+KMB,74E,"大美督","觀塘碼頭",Regular
+KMB,74E,"觀塘碼頭","大美督",Regular
+KMB,74F,"觀塘碼頭","香港教育大學",Regular
+KMB,74F,"香港教育大學","觀塘碼頭",Regular
+KMB,74K,"大埔墟站","三門仔(循環線)",Regular
+KMB,74K,"大埔墟站","三門仔(循環線)",Special Service
+KMB,74P,"觀塘碼頭","大埔中心",Regular
+KMB,74P,"大埔中心","觀塘碼頭",Regular
+KMB,74P,"香港科學園","觀塘碼頭",Special Service
+KMB,74R,"大埔(太和)","北潭涌",Regular
+KMB,74R,"北潭涌","大埔(太和)",Regular
+KMB,74S,"平田","和合石",Regular
+KMB,74S,"和合石","平田",Regular
+KMB,74X,"大埔中心","觀塘碼頭",Regular
+KMB,74X,"運頭塘邨","觀塘碼頭",Special Service
+KMB,74X,"廣福邨","觀塘碼頭",Special Service
+KMB,74X,"觀塘碼頭","大埔中心",Regular
+Citybus,75,"深灣","中環 (交易廣場)",Regular
+KMB,75K,"大美督","大埔墟站",Regular
+KMB,75K,"大埔墟站","大美督",Regular
+KMB,75P,"大美督","大埔墟站",Regular
+KMB,75P,"大美督","大埔墟站",Special Service
+KMB,75X,"大埔(富善)","九龍城碼頭",Regular
+KMB,75X,"九龍城碼頭","大埔(富善)",Regular
+KMB,75X,"九龍城碼頭","大埔(富善)",Special Service
+KMB,76,"攸壆路簡約公屋 (南)","上水站 (彩園路) (循環線)",Regular
+Citybus,76,"黃竹坑站／石排灣","銅鑼灣 (邊寧頓街)",Regular
+KMB,76K,"上水(清河)","朗屏邨",Regular
+KMB,76K,"粉嶺(華明)","朗屏邨",Special Service
+KMB,76K,"朗屏邨","上水(清河)",Regular
+Citybus,77,"田灣","筲箕灣",Regular
+Citybus,77A,"筲箕灣","田灣",Regular
+KMB,77K,"上水","元朗(鳳翔路)",Regular
+KMB,77K,"上水","元朗(西)",Special Service
+KMB,77K,"上水","八鄉路",Special Service
+KMB,77K,"元朗(鳳翔路)","上水",Regular
+Citybus,77X,"華貴邨","西灣河",Regular
+KMB,78,"沙頭角","上水(太平)",Regular
+Citybus,78,"黃竹坑","華貴邨",Regular
+KMB,78A,"皇后山","粉嶺站 (循環線)",Regular
+KMB,78A,"皇后山","粉嶺站 (循環線) [不經山麗]",Special Service
+KMB,78A,"山麗苑","只往粉嶺名都",Special Service
+KMB,78A,"粉嶺中心","皇后山",Special Service
+KMB,78B,"皇后山","上水(彩園)",Regular
+KMB,78B,"皇后山","上水(彩園)",Special Service
+KMB,78B,"上水(彩園)","皇后山",Regular
+Citybus,78C,"粉嶺皇后山","啟德 (經: 觀塘)",Regular
+KMB,78K,"上水(太平)","沙頭角",Regular
+KMB,78K,"沙頭角","上水(太平)",Regular
+KMB,78K,"沙頭角","粉嶺(華明)",Special Service
+Citybus,78P,"粉嶺皇后山","觀塘",Regular
+KMB,78S,"上水","沙頭角",Regular
+KMB,78S,"沙頭角","上水",Regular
+Citybus,78X,"粉嶺皇后山","啟德 (經: 觀塘)",Regular
+Citybus,79,"粉嶺皇后山 (經:大埔)","大圍站 (經:大埔)",Regular
+KMB,79K,"上水","打鼓嶺(松園下)",Regular
+KMB,79K,"粉嶺站","打鼓嶺(松園下)",Special Service
+KMB,79K,"打鼓嶺(松園下)","上水",Regular
+KMB,79K,"打鼓嶺(松園下)","粉嶺站",Special Service
+Citybus,79P,"粉嶺皇后山","高鐵西九龍站",Regular
+Citybus,79X,"粉嶺皇后山","長沙灣 (甘泉街) (經: 旺角)",Regular
+KMB,80,"美林","觀塘碼頭",Regular
+KMB,80,"美林","觀塘碼頭",Special Service
+KMB,80,"觀塘碼頭","美林",Regular
+KMB,80A,"美林","觀塘碼頭",Regular
+KMB,80K,"新翠","愉翠苑",Regular
+KMB,80K,"愉翠苑","新翠",Regular
+KMB,80M,"穗禾苑","九龍塘站",Regular
+KMB,80M,"九龍塘站","穗禾苑",Regular
+KMB,80P,"顯徑","觀塘碼頭",Regular
+KMB,80X,"秦石","觀塘碼頭",Regular
+KMB,80X,"乙明邨街","觀塘碼頭",Special Service
+KMB,80X,"新田圍","觀塘碼頭",Special Service
+KMB,80X,"觀塘碼頭","秦石",Regular
+KMB,81,"禾輋","佐敦(西九龍站)",Regular
+KMB,81,"佐敦(西九龍站)","禾輋",Regular
+Citybus,81,"興華邨","勵德邨",Regular
+Citybus,81A,"興華邨","勵德邨",Regular
+KMB,81C,"耀安","尖沙咀東(麼地道)",Regular
+KMB,81C,"尖沙咀東(麼地道)","耀安",Regular
+KMB,81K,"新田圍","穗禾苑",Regular
+KMB,81K,"穗禾苑","新田圍",Regular
+KMB,81K,"穗禾苑","新田圍",Special Service
+KMB,81X,"美田","旺角 (弼街)",Regular
+Citybus,82,"小西灣 (藍灣半島)","北角碼頭",Regular
+KMB,82B,"美田","大圍站",Regular
+KMB,82C,"廣源","香港科學園",Regular
+KMB,82C,"香港科學園","廣源",Regular
+KMB,82D,"白石角","大圍站",Regular
+KMB,82D,"大圍站","白石角",Regular
+KMB,82K,"美田","愉翠苑",Regular
+KMB,82K,"愉翠苑","美田",Regular
+Citybus,82S,"小西灣 (藍灣半島)","耀東 (惠亨街)",Regular
+KMB,82X,"濱景花園","黃大仙(循環線)",Regular
+Citybus,82X,"小西灣 (藍灣半島)","鰂魚涌",Regular
+KMB,83A,"水泉澳","觀塘碼頭",Regular
+KMB,83K,"黃泥頭","沙田市中心(循環線)",Regular
+KMB,83K,"碩門邨","沙田巿中心",Special Service
+KMB,83P,"黃泥頭","禾輋",Regular
+KMB,83S,"黃泥頭","沙田巿中心",Regular
+KMB,83S,"沙田巿中心","黃泥頭",Regular
+KMB,83X,"水泉澳","觀塘碼頭",Regular
+KMB,83X,"黃泥頭","觀塘碼頭",Special Service
+KMB,83X,"觀塘碼頭","水泉澳",Regular
+KMB,83X,"觀塘碼頭","黃泥頭",Special Service
+KMB,84M,"富安花園","樂富",Regular
+KMB,84M,"樂富","富安花園",Regular
+KMB,85,"火炭駿洋邨","九龍城碼頭",Regular
+KMB,85,"九龍城碼頭","火炭駿洋邨",Regular
+Citybus,85,"小西灣 (藍灣半島)","寶馬山／北角",Regular
+KMB,85A,"廣源","九龍城碼頭",Regular
+KMB,85A,"九龍城碼頭","廣源",Regular
+Citybus,85A,"筲箕灣","寶馬山",Regular
+KMB,85B,"秦石","九龍城碼頭",Regular
+KMB,85K,"恆安","沙田站",Regular
+KMB,85K,"沙田站","恆安",Regular
+KMB,85M,"錦英苑","黃大仙(循環線)",Regular
+KMB,85P,"泥涌","紅磡(紅鸞道)",Regular
+KMB,85P,"紅磡(紅鸞道)","泥涌",Regular
+Citybus,85P,"小西灣 (藍灣半島)","寶馬山",Regular
+KMB,85S,"耀安","紅磡(紅鸞道)",Regular
+KMB,85X,"馬鞍山市中心","紅磡(紅鸞道)",Regular
+KMB,85X,"紅磡(紅鸞道)","馬鞍山市中心",Regular
+KMB,86,"黃泥頭","美孚",Regular
+KMB,86,"美孚","黃泥頭",Regular
+KMB,86A,"沙田圍","長沙灣(甘泉街)",Regular
+KMB,86A,"長沙灣(甘泉街)","沙田圍",Regular
+KMB,86C,"利安","長沙灣",Regular
+KMB,86C,"長沙灣","利安",Regular
+KMB,86K,"錦英苑","沙田站",Regular
+KMB,86K,"沙田站","錦英苑",Regular
+KMB,86S,"錦英苑","沙田站",Regular
+KMB,86S,"馬鞍山市中心","沙田站",Special Service
+KMB,86S,"沙田站","錦英苑",Regular
+KMB,87B,"新田圍","維港灣",Regular
+KMB,87B,"維港灣","新田圍",Regular
+KMB,87C,"錦英苑","紅磡站",Regular
+KMB,87C,"紅磡站","錦英苑",Regular
+KMB,87D,"錦英苑","紅磡站",Regular
+KMB,87D,"馬鞍山市中心","紅磡站",Special Service
+KMB,87D,"錦英苑","紅磡站",Special Service
+KMB,87D,"紅磡站","錦英苑",Regular
+KMB,87E,"泥涌","尖沙咀",Regular
+KMB,87E,"尖沙咀東(麼地道)","泥涌",Regular
+KMB,87K,"大學站","錦英苑(循環線)",Regular
+KMB,87K,"大學站","錦英苑(循環線)",Special Service
+KMB,87K,"錦英苑","大學站",Special Service
+KMB,87K,"馬鞍山市中心","大學站",Special Service
+KMB,87K,"大學站","利安",Special Service
+KMB,87P,"利安","頌安",Regular
+KMB,87R,"紅磡香港體育館","烏溪沙站",Regular
+KMB,87S,"大學站","錦英苑 (循環線)",Regular
+KMB,87S,"錦英苑","大學站 (循環線)",Regular
+KMB,88,"中秀茂坪","大圍站",Regular
+KMB,88,"大圍站","中秀茂坪",Regular
+KMB,88K,"顯徑","駿景園",Regular
+KMB,88K,"駿景園","顯徑",Regular
+Citybus,88R,"沙田第一城","中環",Regular
+KMB,88X,"穗禾苑","平田",Regular
+KMB,88X,"穗禾苑","平田",Special Service
+KMB,88X,"平田","穗禾苑",Regular
+KMB,88X,"平田","穗禾苑",Special Service
+Citybus,88X,"小西灣 (藍灣半島)","堅尼地城 (卑路乍灣)",Regular
+KMB,89,"瀝源","觀塘(翠屏北邨)",Regular
+KMB,89,"觀塘(翠屏北邨)","瀝源",Regular
+KMB,89B,"沙田圍","牛頭角",Regular
+KMB,89B,"牛頭角","沙田圍",Regular
+KMB,89C,"恆安","觀塘(翠屏道)",Regular
+KMB,89C,"恆安","觀塘(翠屏道)",Special Service
+KMB,89C,"觀塘(翠屏道)","恆安",Regular
+KMB,89D,"烏溪沙站","藍田站",Regular
+KMB,89D,"藍田站","烏溪沙站",Regular
+KMB,89D,"藍田站","烏溪沙站",Special Service
+KMB,89P,"馬鞍山市中心","藍田站",Regular
+KMB,89P,"恒康街","藍田站",Special Service
+KMB,89P,"馬鞍山市中心","藍田站",Special Service
+KMB,89S,"水泉澳","烏溪沙站",Regular
+KMB,89S,"水泉澳","烏溪沙站",Special Service
+KMB,89S,"烏溪沙站","水泉澳",Regular
+KMB,89X,"沙田站","觀塘(翠屏道)",Regular
+KMB,89X,"觀塘(翠屏道)","沙田站",Regular
+KMB,90,"碩門邨","將軍澳(彩明)",Regular
+KMB,90,"將軍澳(彩明)","碩門邨",Regular
+Citybus,90,"鴨脷洲邨","中環 (交易廣場)",Regular
+Citybus,90B,"海怡半島","金鐘 (東)",Regular
+Citybus,90C,"鴨脷洲大街","中環 (怡和大廈)",Regular
+KMB,91,"清水灣","鑽石山站",Regular
+KMB,91,"鑽石山站","清水灣",Regular
+KMB,91,"彩虹轉車站- 碧海樓 (M1)","清水灣",Special Service
+Citybus,91,"鴨脷洲邨","中環碼頭",Regular
+Citybus,91A,"鴨脷洲邨","華富 (南)",Regular
+KMB,91M,"寶林","鑽石山站",Regular
+KMB,91M,"鑽石山站","寶林",Regular
+KMB,91M,"香港科技大學(北)","寶林",Special Service
+KMB,91P,"鑽石山站","香港科技大學(北)",Regular
+KMB,91P,"香港科技大學(南)","坪石 / 彩虹站",Regular
+KMB,91R,"清水灣","將軍澳(彩明)",Regular
+KMB,91S,"清水灣","觀塘",Regular
+KMB,92,"西貢","鑽石山站",Regular
+KMB,92,"西貢","鑽石山站",Special Service
+KMB,92,"鑽石山站","西貢",Regular
+KMB,92,"鑽石山站","西貢",Special Service
+KMB,92R,"西貢","尖沙咀碼頭",Regular
+KMB,92R,"尖沙咀碼頭","西貢",Regular
+Citybus,93,"海怡半島／鴨脷洲邨","羅便臣道",Regular
+KMB,93A,"寶林","觀塘碼頭",Regular
+KMB,93A,"觀塘碼頭","寶林",Regular
+Citybus,93A,"利東邨","羅便臣道",Regular
+Citybus,93C,"鴨脷洲大街／田灣","堅道",Regular
+KMB,93K,"寶林","旺角東站",Regular
+KMB,93K,"旺角東站","寶林",Regular
+KMB,93M,"將軍澳(彩明)","寶林",Regular
+KMB,93P,"寶林","旺角(柏景灣)",Regular
+KMB,93P,"旺角(柏景灣)","寶林",Regular
+KMB,94,"黃石碼頭","西貢",Regular
+KMB,94,"西貢","黃石碼頭",Regular
+Citybus,94A,"華富 (中)","利東邨",Regular
+KMB,95,"翠林","九龍站",Regular
+KMB,95,"九龍站","翠林",Regular
+Citybus,95C,"鴨脷洲邨 / 利南工業區","置富花園",Regular
+KMB,95M,"翠林","觀塘(雅麗道)",Regular
+KMB,95M,"觀塘(雅麗道)","翠林",Regular
+Citybus,95P,"田灣","鴨脷洲邨",Regular
+KMB,96,"康盛花園","大埔工業邨",Regular
+KMB,96,"將軍澳中心","大埔工業邨",Special Service
+KMB,96,"大埔工業邨","康盛花園",Regular
+KMB,96R,"鑽石山站","黃石碼頭",Regular
+KMB,96R,"黃石碼頭","鑽石山站",Regular
+KMB,97,"烏溪沙站","康盛花園",Regular
+KMB,97,"康盛花園","烏溪沙站",Regular
+Citybus,97,"利東邨","中環 (交易廣場)",Regular
+KMB,98,"將軍澳工業邨","牛頭角站(循環線)",Regular
+KMB,98,"將軍澳工業邨","牛頭角站",Special Service
+Citybus,98,"利東邨","香港仔 (成都道)",Regular
+KMB,98A,"坑口(北)(將軍澳醫院)","牛頭角站(循環線)",Regular
+KMB,98A,"牛頭角站","坑口(北)(將軍澳醫院)",Special Service
+KMB,98B,"坑口(北)(將軍澳醫院)","觀塘",Regular
+KMB,98C,"坑口(北)(將軍澳醫院)","美孚",Regular
+KMB,98C,"美孚","坑口(北)(將軍澳醫院)",Regular
+KMB,98D,"坑口(北)(將軍澳醫院)","尖沙咀東",Regular
+KMB,98D,"坑口(北)(將軍澳醫院)","尖沙咀東",Special Service
+KMB,98D,"康城站","尖沙咀東",Special Service
+KMB,98D,"坑口(北)(將軍澳醫院)","尖沙咀東",Special Service
+KMB,98D,"尖沙咀東","坑口(北)(將軍澳醫院)",Regular
+KMB,98E,"坑口(北)(將軍澳醫院)","美孚",Regular
+KMB,98E,"美孚","坑口(北)(將軍澳醫院)",Regular
+KMB,98P,"康盛花園","尖沙咀東",Regular
+KMB,98P,"尖沙咀東","坑口(北)(將軍澳醫院)",Regular
+KMB,98R,"紅磡香港體育館","坑口(北)(將軍澳醫院)",Regular
+KMB,98S,"坑口(北)(將軍澳醫院)","美孚",Regular
+KMB,98S,"美孚","坑口(北)(將軍澳醫院)",Regular
+KMB,99,"恆安","西貢",Regular
+KMB,99,"西貢","恆安",Regular
+Citybus,99,"海怡半島","筲箕灣",Regular
+KMB,99R,"大學站","西貢北(西貢警署)",Regular
+KMB,99R,"西貢北(西貢警署)","大學站",Regular
+Citybus,99X,"海怡半島","西灣河",Regular
+KMB,101,"觀塘(裕民坊)","堅尼地城",Regular
+KMB,101,"觀塘(裕民坊)","德輔道中",Special Service
+KMB,101,"觀塘(裕民坊)","卑路乍街",Special Service
+KMB,101,"木廠街","堅尼地城",Special Service
+KMB,101,"堅尼地城","觀塘(裕民坊)",Regular
+KMB,101,"德輔道中","觀塘(裕民坊)",Special Service
+Citybus,101,"堅尼地城","觀塘 (裕民坊)",Regular
+KMB,101R,"跑馬地馬場","觀塘(裕民坊)",Regular
+Citybus,101R,"跑馬地馬場","觀塘 (裕民坊)",Regular
+KMB,101X,"觀塘(裕民坊)","堅尼地城",Regular
+KMB,101X,"觀塘(裕民坊)","堅尼地城",Special Service
+KMB,101X,"堅尼地城","觀塘(裕民坊)",Regular
+Citybus,101X,"堅尼地城","觀塘 (裕民坊)",Regular
+KMB,102,"筲箕灣","美孚",Regular
+KMB,102,"美孚","筲箕灣",Regular
+Citybus,102,"筲箕灣","美孚",Regular
+KMB,102P,"筲箕灣","美孚",Regular
+KMB,102P,"美孚","筲箕灣",Regular
+KMB,102P,"紅磡海底隧道","筲箕灣",Special Service
+Citybus,102P,"筲箕灣","美孚",Regular
+KMB,102R,"跑馬地馬場","美孚",Regular
+Citybus,102R,"跑馬地馬場","美孚",Regular
+KMB,103,"竹園邨","蒲飛路",Regular
+KMB,103,"蒲飛路","竹園邨",Regular
+Citybus,103,"蒲飛路","竹園",Regular
+KMB,104,"堅尼地城","深水埗(白田邨)",Regular
+KMB,104,"深水埗(白田邨)","堅尼地城",Regular
+KMB,104,"澤安","域多利皇后街",Special Service
+Citybus,104,"堅尼地城／中環","白田邨",Regular
+Citybus,104R,"中環碼頭","旺角",Regular
+KMB,106,"黃大仙","小西灣(藍灣半島)",Regular
+KMB,106,"小西灣(藍灣半島)","黃大仙",Regular
+Citybus,106,"小西灣 (藍灣半島)","黃大仙",Regular
+KMB,106A,"黃大仙","太古(康怡廣場)",Regular
+Citybus,106A,"黃大仙","太古 (康怡廣場)",Regular
+KMB,106P,"黃大仙","小西灣(藍灣半島)",Regular
+KMB,106P,"小西灣(藍灣半島)","黃大仙",Regular
+KMB,106P,"小西灣(藍灣半島)","黃大仙",Special Service
+Citybus,106P,"小西灣 (藍灣半島)","黃大仙",Regular
+KMB,107,"九龍灣","華貴",Regular
+KMB,107,"九龍灣","華貴",Special Service
+KMB,107,"華貴","九龍灣",Regular
+KMB,107,"華貴","九龍灣",Special Service
+Citybus,107,"華貴邨","九龍灣",Regular
+KMB,107P,"海逸豪園","數碼港",Regular
+KMB,107P,"數碼港","海逸豪園",Regular
+Citybus,107P,"紅磡 (海逸豪園)","數碼港",Regular
+KMB,108,"啟業","寶馬山",Regular
+KMB,108,"九龍城(盛德街)","銅鑼灣(邊寧頓街)",Special Service
+KMB,108,"寶馬山","啟業",Regular
+KMB,109,"何文田","中環(港澳碼頭)",Regular
+KMB,109,"中環(港澳碼頭)","何文田",Regular
+Citybus,109,"中環 (港澳碼頭)","何文田邨",Regular
+KMB,110,"筲箕灣","尖沙咀(循環線)",Regular
+KMB,110,"筲箕灣","尖沙咀東(麼地道)",Special Service
+Citybus,110,"筲箕灣","尖沙咀 (麼地道)",Regular
+KMB,111,"坪石 / 彩虹站","中環(港澳碼頭)",Regular
+KMB,111,"中環(港澳碼頭)","坪石 / 彩虹站",Regular
+Citybus,111,"中環 (港澳碼頭)","坪石邨",Regular
+KMB,111P,"彩福","中環(港澳碼頭)",Regular
+KMB,111P,"中環(港澳碼頭)","彩福",Regular
+Citybus,111P,"彩福邨","中環 (港澳碼頭)",Regular
+KMB,112,"北角(百福道)","長沙灣(蘇屋邨)",Regular
+KMB,112,"長沙灣(蘇屋邨)","北角(百福道)",Regular
+Citybus,112,"北角 (百福道)","蘇屋邨",Regular
+KMB,113,"彩虹","堅尼地城(卑路乍灣)",Regular
+KMB,113,"堅尼地城(卑路乍灣)","彩虹",Regular
+Citybus,113,"堅尼地城 (卑路乍灣)","彩虹",Regular
+KMB,115,"九龍城碼頭","中環(港澳碼頭)",Regular
+KMB,115,"中環(港澳碼頭)","九龍城碼頭",Regular
+Citybus,115,"中環 (港澳碼頭)","九龍城碼頭",Regular
+KMB,115P,"海逸豪園","中環(港澳碼頭)",Regular
+Citybus,115P,"海逸豪園","中環 (港澳碼頭)",Regular
+KMB,116,"慈雲山(中)","鰂魚涌(祐民街)",Regular
+KMB,116,"鰂魚涌(祐民街)","慈雲山(中)",Regular
+KMB,116,"炮台山站","慈雲山(中)",Special Service
+Citybus,116,"鰂魚涌 (祐民街)","慈雲山 (中)",Regular
+KMB,117,"深水埗(欽州街)","跑馬地(下)",Regular
+KMB,117,"跑馬地(下)","深水埗(欽州街)",Regular
+Citybus,117,"跑馬地 (下)","深水埗 (欽州街)",Regular
+KMB,118,"長沙灣(深旺道)","小西灣(藍灣半島)",Regular
+KMB,118,"旺角(奶路臣街)","小西灣(藍灣半島)",Special Service
+KMB,118,"紅磡海底隧道","小西灣(藍灣半島)",Special Service
+KMB,118,"小西灣(藍灣半島)","長沙灣(深旺道)",Regular
+KMB,118,"柴灣(康翠臺)","長沙灣(深旺道)",Special Service
+Citybus,118,"小西灣 (藍灣半島)","長沙灣 (深旺道)",Regular
+KMB,118P,"小西灣(藍灣半島)","長沙灣(深旺道)",Regular
+KMB,118P,"小西灣(藍灣半島)","基榮小學",Special Service
+KMB,118P,"長沙灣(深旺道)","小西灣(藍灣半島)",Regular
+Citybus,118P,"小西灣 (藍灣半島)","長沙灣 (深旺道)",Regular
+KMB,170,"沙田站","華富(中)",Regular
+KMB,170,"沙田站","華富(中)",Special Service
+KMB,170,"華富(中)","沙田站",Regular
+KMB,170,"華富(中)","沙田站",Special Service
+Citybus,170,"華富 (中)","沙田站",Regular
+KMB,171,"荔枝角","海怡半島",Regular
+KMB,171,"荔枝角","海怡半島",Special Service
+KMB,171,"荔枝角","海怡半島",Special Service
+KMB,171,"海怡半島","荔枝角",Regular
+KMB,171,"海怡半島","荔枝角",Special Service
+KMB,171,"海怡半島","荔枝角",Special Service
+Citybus,171,"海怡半島","荔枝角",Regular
+KMB,171A,"利東邨","荔枝角",Regular
+Citybus,171A,"利東邨","荔枝角",Regular
+KMB,171P,"海怡半島","荔枝角",Regular
+Citybus,171P,"海怡半島","荔枝角",Regular
+Citybus,173R,"赤柱","尖沙咀(麼地道)",Regular
+KMB,182,"愉翠苑","中環(港澳碼頭)",Regular
+KMB,182,"中環(港澳碼頭)","愉翠苑",Regular
+Citybus,182,"中環 (港澳碼頭)","沙田 (愉翠苑)",Regular
+KMB,182X,"中環(港澳碼頭)","愉翠苑",Regular
+Citybus,182X,"中環 (港澳碼頭)","沙田 (愉翠苑)",Regular
+KMB,203C,"深水埗(大坑東)","尖沙咀東(麼地道)",Regular
+KMB,203C,"尖沙咀東(麼地道)","深水埗(大坑東)",Regular
+KMB,203C,"尖沙咀東(麼地道)","深水埗(大坑東)",Special Service
+KMB,203E,"彩虹","九龍站",Regular
+KMB,203E,"九龍站","彩虹",Regular
+KMB,203S,"澤安","尖沙咀東(麼地道)",Regular
+KMB,208,"廣播道","尖沙咀東",Regular
+KMB,208,"尖沙咀東","廣播道",Regular
+KMB,211,"翠竹花園","黃大仙站(循環線)",Regular
+KMB,211A,"樂富","翠竹花園(循環線)",Regular
+KMB,213A,"安達","坪石 / 彩虹站",Regular
+KMB,213B,"安泰","觀塘定富街",Regular
+KMB,213D,"中秀茂坪","旺角(循環線)",Regular
+KMB,213M,"安泰","藍田站(循環線)",Regular
+KMB,213S,"安達","藍田站(循環線)",Regular
+KMB,213X,"安泰(南)(恆泰樓)","尖沙咀(循環線)",Regular
+KMB,213X,"安泰(南)(恆泰樓)","尖沙咀(循環線)",Special Service
+KMB,214,"油塘","長沙灣(甘泉街)",Regular
+KMB,214,"寶達","荔枝角站",Special Service
+KMB,214,"長沙灣(甘泉街)","油塘",Regular
+KMB,214P,"安秀道","荔枝角站",Regular
+KMB,215P,"藍田(廣田邨)","九龍站",Regular
+KMB,215R,"紅磡香港體育館","順天",Regular
+KMB,215X,"藍田(廣田邨)","九龍站",Regular
+KMB,215X,"藍田(廣田邨)","九龍站",Special Service
+KMB,215X,"九龍站","藍田(廣田邨)",Regular
+KMB,216M,"藍田站","油塘站(循環線)",Regular
+KMB,219X,"麗港城","尖沙咀(循環線)",Regular
+KMB,219X,"高嶺道","尖沙咀(循環線)",Special Service
+KMB,224R,"紅磡香港體育館","黃大仙",Regular
+KMB,224X,"啟業","尖沙咀東(循環線)",Regular
+KMB,224X,"啟業","尖沙咀東(循環線)",Special Service
+KMB,224X,"啟德巴士總站","尖沙咀東(循環線)",Special Service
+KMB,230R,"九龍站","馬灣(珀欣路)",Regular
+KMB,230R,"馬灣(珀欣路)","九龍站",Regular
+KMB,230X,"荃灣(荃威花園)","黃埔花園",Regular
+KMB,234A,"深井(浪翠園)","荃灣西站",Regular
+KMB,234A,"青龍頭村","荃灣西站",Special Service
+KMB,234A,"荃灣西站","深井(浪翠園)",Regular
+KMB,234B,"荃灣西站","深井(浪翠園)",Regular
+KMB,234B,"深井(浪翠園)","荃灣西站",Regular
+KMB,234C,"深井","觀塘(翠屏北邨)",Regular
+KMB,234C,"觀塘(翠屏北邨","深井",Regular
+KMB,234D,"青龍頭","觀塘(翠屏北邨)",Regular
+KMB,234D,"觀塘(翠屏北邨)","青龍頭",Regular
+KMB,234P,"荃灣(灣景花園)","尖沙咀碼頭",Regular
+KMB,234X,"尖沙咀東(麼地道)","荃灣(灣景花園)",Regular
+KMB,234X,"荃灣(灣景花園)","尖沙咀東(麼地道)",Regular
+KMB,235,"葵涌(安蔭邨)","荃灣(循環線)",Regular
+KMB,235M,"葵涌(安蔭邨)","葵芳站",Regular
+KMB,235M,"葵芳站","葵涌(安蔭邨)",Regular
+KMB,238M,"荃灣(海濱花園)","荃灣站",Regular
+KMB,238M,"荃灣站","荃灣(海濱花園)",Regular
+KMB,238P,"荃灣(海濱花園)","中港碼頭",Regular
+KMB,238X,"荃灣(海濱花園)","中港碼頭",Regular
+KMB,238X,"中港碼頭","荃灣(海濱花園)",Regular
+KMB,240X,"黃泥頭","葵興站",Regular
+KMB,240X,"葵興站","黃泥頭",Regular
+KMB,241X,"青衣(長青邨)","九龍城碼頭",Regular
+KMB,241X,"九龍城碼頭","青衣(長青邨)",Regular
+KMB,242X,"青衣(長亨邨)","尖沙咀",Regular
+KMB,242X,"尖沙咀東(麼地道)","青衣(長亨邨)",Regular
+KMB,243M,"青衣(美景花園)","荃灣(愉景新城)",Regular
+KMB,243M,"荃灣(愉景新城)","青衣(美景花園)",Regular
+KMB,243P,"青衣(美景花園)","荃威花園",Regular
+KMB,248M,"青衣站","長宏(循環線)",Regular
+KMB,249M,"青衣站","美景花園(循環線)",Regular
+KMB,249X,"博康","青衣站",Regular
+KMB,249X,"青衣站","博康",Regular
+KMB,249X,"青衣站","大圍站",Special Service
+KMB,251A,"錦上路站","上村(循環線)",Regular
+KMB,251B,"八鄉路","上村(循環線)",Regular
+KMB,251C,"江夏圍","元朗(循環線)",Regular
+KMB,251M,"上村","荃灣站",Regular
+KMB,252,"屯門公路轉車站(屯門方向)","掃管笏(循環線)",Regular
+KMB,252,"屯門公路轉車站","管翠路18號",Special Service
+KMB,252,"星堤","屯門公路轉車站",Special Service
+KMB,252B,"恒順園","尖沙咀",Regular
+KMB,252X,"恆順園","藍田站",Regular
+KMB,252X,"掃管笏","藍田站",Special Service
+KMB,252X,"藍田站","屯門(置樂花園)",Regular
+KMB,254R,"形點","石崗軍營 (循環線)",Regular
+KMB,258A,"洪水橋(洪福邨)","藍田站",Regular
+KMB,258D,"屯門(寶田邨)","藍田站",Regular
+KMB,258D,"藍田站","屯門(寶田邨)",Regular
+KMB,258P,"洪水橋(洪福邨)","藍田站",Regular
+KMB,258P,"藍田站","洪天路洪福邨",Regular
+KMB,258S,"屯門(山景邨)","藍田站",Regular
+KMB,258X,"屯門(寶田邨)","觀塘碼頭",Regular
+KMB,258X,"觀塘碼頭","屯門(寶田邨)",Regular
+KMB,259B,"屯門碼頭","尖沙咀",Regular
+KMB,259C,"新屯門中心","尖沙咀",Regular
+KMB,259D,"屯門(龍門居)","鯉魚門邨",Regular
+KMB,259D,"悅湖山莊","鯉魚門邨",Special Service
+KMB,259D,"鯉魚門邨","屯門(龍門居)",Regular
+KMB,259E,"屯門(龍門居)","荃灣站",Regular
+KMB,259R,"紅磡香港體育館","屯門碼頭",Regular
+KMB,259S,"屯門(龍門居)","觀塘碼頭",Regular
+KMB,259X,"屯門(龍門居)","觀塘碼頭",Regular
+KMB,259X,"觀塘碼頭","屯門(龍門居)",Regular
+KMB,259X,"臨華街遊樂場","屯門(龍門居)",Special Service
+Citybus,260,"中環 (交易廣場)","赤柱市場",Regular
+KMB,260B,"屯門巿中心","尖沙咀",Regular
+KMB,260C,"屯門(三聖邨)","葵芳站",Regular
+KMB,260C,"葵芳站","屯門(三聖邨)",Regular
+KMB,260R,"紅磡香港體育館","屯門(兆康苑)",Regular
+KMB,260X,"屯門(寶田邨)","紅磡站",Regular
+KMB,260X,"屯門(大興邨)","紅磡站",Special Service
+KMB,260X,"紅磡站","屯門(寶田邨)",Regular
+KMB,261,"屯門(三聖邨)","粉嶺(祥華)",Regular
+KMB,261,"粉嶺(祥華)","屯門(三聖邨)",Regular
+KMB,261B,"屯門(三聖邨)","九龍站",Regular
+KMB,261B,"掃管笏","九龍站",Special Service
+KMB,261P,"屯門(兆康苑)","上水(天平)",Regular
+KMB,261P,"上水(天平)","屯門(兆康苑)",Regular
+KMB,261S,"屯門(寶田邨)","上水(天平)",Regular
+KMB,261X,"掃管笏","粉嶺(祥華)",Regular
+KMB,261X,"粉嶺(祥華)","掃管笏",Regular
+KMB,263,"屯門站","沙田站",Regular
+KMB,263,"沙田站","屯門站",Regular
+KMB,263A,"屯門站","香港科學園",Regular
+KMB,263A,"香港科學園","屯門站",Regular
+KMB,263B,"屯門站","火炭(山尾街)",Regular
+KMB,263B,"火炭(山尾街)","屯門站",Regular
+KMB,263C,"屯門站","香港教育大學",Regular
+KMB,263C,"香港教育大學","屯門站",Regular
+KMB,264R,"天耀","大埔墟站",Regular
+KMB,264R,"大埔墟站","天耀",Regular
+KMB,265B,"天恆邨","旺角(柏景灣)",Regular
+KMB,265B,"旺角(柏景灣)","天恆邨",Regular
+KMB,265M,"天恆邨","葵涌(麗瑤邨)",Regular
+KMB,265M,"葵涌(麗瑤邨)","天恆邨",Regular
+KMB,265P,"天恩邨","荃灣站",Regular
+KMB,265P,"荃灣眾安街","天恩邨",Regular
+KMB,265S,"天水圍市中心","香港教育大學",Regular
+KMB,265S,"天水圍市中心","香港教育大學",Special Service
+KMB,265S,"大埔工業邨","天水圍市中心",Regular
+KMB,267X,"屯門(兆康苑)","藍田站",Regular
+KMB,267X,"藍田站","屯門(兆康苑)",Regular
+KMB,268,"攸壆路簡約公屋 (南)","八鄉路",Regular
+KMB,268,"八鄉路","攸壆路簡約公屋 (南)",Regular
+KMB,268A,"朗屏邨","觀塘碼頭",Regular
+KMB,268A,"觀塘碼頭","朗屏邨",Regular
+KMB,268B,"朗屏站","紅磡(紅鸞道)",Regular
+KMB,268B,"洪元路(洪福邨)","紅磡(紅鸞道)",Special Service
+KMB,268B,"紅磡(紅鸞道)","朗屏站",Regular
+KMB,268C,"朗屏站","觀塘碼頭",Regular
+KMB,268C,"銀田花園","觀塘碼頭",Special Service
+KMB,268C,"觀塘碼頭","朗屏站",Regular
+KMB,268C,"觀塘定富街","朗屏站",Special Service
+KMB,268C,"觀塘碼頭","朗屏站",Special Service
+KMB,268M,"峻巒","荃灣西站",Regular
+KMB,268M,"荃灣西站","峻巒",Regular
+KMB,268P,"媽橫路(山水樓)","觀塘碼頭",Regular
+KMB,268P,"觀塘碼頭","朗屏站",Regular
+KMB,268X,"洪水橋(洪福邨)","佐敦(西九龍站)",Regular
+KMB,268X,"朗屏邨悅屏樓","佐敦(西九龍站)",Special Service
+KMB,268X,"佐敦(西九龍站)","洪水橋(洪福邨)",Regular
+KMB,269A,"濕地公園路","葵涌(葵芳邨)",Regular
+KMB,269B,"天水圍市中心","紅磡(紅鸞道)",Regular
+KMB,269B,"天恩邨","紅磡(紅鸞道)",Special Service
+KMB,269B,"紅磡(紅鸞道)","天水圍市中心",Regular
+KMB,269C,"天水圍市中心","觀塘碼頭",Regular
+KMB,269C,"天慈","觀塘碼頭",Special Service
+KMB,269C,"觀塘碼頭","天水圍市中心",Regular
+KMB,269D,"天富","瀝源",Regular
+KMB,269D,"天水圍站","瀝源",Special Service
+KMB,269D,"天富","瀝源",Special Service
+KMB,269D,"瀝源","天富",Regular
+KMB,269M,"天恩邨","祖堯",Regular
+KMB,269M,"祖堯","天恩邨",Regular
+KMB,269P,"葵涌(葵芳邨)","濕地公園路",Regular
+KMB,269R,"紅磡香港體育館","天恆邨",Regular
+KMB,269S,"天水圍市中心","觀塘碼頭",Regular
+KMB,269S,"天水圍市中心","觀塘碼頭",Special Service
+KMB,269S,"觀塘碼頭","天水圍市中心",Regular
+KMB,269S,"觀塘碼頭","天水圍市中心",Special Service
+KMB,269X,"天瑞","佐敦(西九龍站)",Regular
+KMB,269X,"佐敦(西九龍站)","天瑞",Regular
+KMB,270,"翠麗花園","天平邨(循環線)",Regular
+KMB,270,"上水(天平)","翠麗花園",Special Service
+KMB,270A,"上水","尖沙咀東(麼地道)",Regular
+KMB,270A,"尖沙咀東(麼地道)","上水",Regular
+KMB,270B,"上水","奧運站",Regular
+KMB,270B,"上水","富榮花園",Special Service
+KMB,270B,"奧運站","上水",Regular
+KMB,270B,"深水埗","上水",Special Service
+KMB,270B,"奧運站","上水",Special Service
+KMB,270C,"粉嶺(聯和墟)","尖沙咀東(麼地道)",Regular
+KMB,270C,"尖沙咀東(麼地道)","粉嶺(聯和墟)",Regular
+KMB,270D,"粉嶺(聯和墟)","深水埗",Regular
+KMB,270D,"深水埗(欽州街)","粉嶺(聯和墟)",Regular
+KMB,270P,"上水","九龍站",Regular
+KMB,270R,"紅磡香港體育館","粉嶺(聯和墟)",Regular
+KMB,270S,"尖沙咀東(麼地道)","粉嶺(聯和墟)",Regular
+KMB,271,"大埔(富亨)","佐敦(西九龍站)",Regular
+KMB,271,"佐敦(西九龍站)","大埔(富亨)",Regular
+KMB,271,"佐敦(西九龍站)","大埔(富亨)",Special Service
+KMB,271A,"富蝶總站","尖沙咀東(麼地道)",Regular
+KMB,271A,"尖沙咀東(麼地道)","富蝶總站",Regular
+KMB,271B,"大埔(富亨)","佐敦(西九龍站)",Regular
+KMB,271B,"佐敦(西九龍站)","大埔(富亨)",Regular
+KMB,271P,"九龍坑","尖沙咀(廣東道)",Regular
+KMB,271R,"紅磡香港體育館","大埔(太和)",Regular
+KMB,271S,"紅磡站","大埔(太和)",Regular
+KMB,271X,"佐敦(西九龍站)","大埔(富亨)",Regular
+KMB,272A,"大學站","白石角(循環線)",Regular
+KMB,272A,"大學站","博研路",Special Service
+KMB,272A,"白石角","大學站",Special Service
+KMB,272A,"大學站","白石角(循環線)",Special Service
+KMB,272E,"大埔(太和)","旺角(柏景灣)",Regular
+KMB,272E,"旺角(柏景灣)","大埔(太和)",Regular
+KMB,272K,"大學站","香港科學園(循環線)",Regular
+KMB,272P,"大埔(富亨)","葵興站",Regular
+KMB,272P,"富蝶總站","葵興站",Special Service
+KMB,272P,"葵興站","大埔(富亨)",Regular
+KMB,272P,"葵興站","富蝶總站",Special Service
+KMB,272S,"鑽石山站","香港科學園",Regular
+KMB,272S,"香港科學園","鑽石山站",Regular
+KMB,272X,"大埔中心","旺角東站",Regular
+KMB,272X,"旺角東站","大埔中心",Regular
+KMB,273,"粉嶺(華明)","粉嶺站(循環線)",Regular
+KMB,273A,"上水(彩園)","華明(循環線)",Regular
+KMB,273A,"上水(彩園)","華明(循環線)",Special Service
+KMB,273A,"粉嶺(華明)","上水(彩園)",Special Service
+KMB,273B,"上水(清河)","上水站(循環線)",Regular
+KMB,273B,"上水(清河)","上水站(只往上水站)",Special Service
+KMB,273C,"九龍坑","荃灣西站",Regular
+KMB,273D,"上水","華明(循環線)",Regular
+KMB,273D,"上水","華明(循環線)",Special Service
+KMB,273P,"大埔(太和)","荃灣西站",Regular
+KMB,273S,"粉嶺(暉明路)","粉嶺站",Regular
+KMB,273S,"粉嶺站","粉嶺(華明)",Regular
+KMB,274,"上水(太平)","烏溪沙站",Regular
+KMB,274P,"烏溪沙站","大埔工業邨",Regular
+KMB,274P,"大埔工業邨","烏溪沙站",Regular
+KMB,274X,"觀塘碼頭","大埔中心",Regular
+KMB,275R,"大埔墟站","烏蛟騰",Regular
+KMB,275R,"烏蛟騰","大埔墟站",Regular
+KMB,275X,"大埔(富善)","紅磡(紅鸞道)",Regular
+KMB,275X,"紅磡(紅鸞道)","大埔(富善)",Regular
+KMB,276,"天慈","上水",Regular
+KMB,276,"上水","天慈",Regular
+KMB,276A,"天恆邨","上水(太平)",Regular
+KMB,276A,"天富苑欣富閣","上水(太平)",Special Service
+KMB,276A,"上水(太平)","天恆邨",Regular
+KMB,276B,"天富","上水(彩園)",Regular
+KMB,276B,"上水(彩園)","天富",Regular
+KMB,276C,"天水圍站","粉嶺(祥華)",Regular
+KMB,276C,"粉嶺(祥華)","天水圍站",Regular
+KMB,276P,"天水圍站","上水",Regular
+KMB,276P,"上水","天水圍站",Regular
+KMB,277A,"沙頭角","藍田站",Regular
+KMB,277A,"藍田站","沙頭角",Regular
+KMB,277E,"上水(天平)","藍田站",Regular
+KMB,277E,"藍田站","上水(天平)",Regular
+KMB,277P,"上水(天平)","藍田站",Regular
+KMB,277P,"藍田站","上水(天平)",Regular
+KMB,277X,"粉嶺(聯和墟)","藍田站",Regular
+KMB,277X,"粉嶺(聯和墟)","藍田站",Special Service
+KMB,277X,"粉嶺(華明)","藍田站",Special Service
+KMB,277X,"藍田站","粉嶺(聯和墟)",Regular
+KMB,278A,"皇后山","荃灣(如心廣場)",Regular
+KMB,278A,"荃灣(如心廣場)","皇后山",Regular
+KMB,278K,"粉嶺(聯和墟)","粉嶺站(循環線)",Regular
+KMB,278P,"上水(太平)","荃灣(如心廣場)",Regular
+KMB,278X,"上水","荃灣(如心廣場)",Regular
+KMB,278X,"荃灣(如心廣場)","上水",Regular
+KMB,279A,"粉嶺(聯和墟)","青衣站",Regular
+KMB,279B,"粉嶺(聯和墟)","葵興站",Regular
+KMB,279S,"青衣(長青邨)","和合石",Regular
+KMB,279S,"和合石","青衣(長青邨)",Regular
+KMB,279X,"粉嶺(聯和墟)","青衣站",Regular
+KMB,279X,"青衣站","粉嶺(聯和墟)",Regular
+KMB,279X,"青衣站","上水站",Special Service
+KMB,280X,"穗禾苑","尖沙咀東(麼地道)",Regular
+KMB,280X,"駿景園","尖沙咀東(麼地道)",Special Service
+KMB,280X,"尖沙咀東(麼地道)","穗禾苑",Regular
+KMB,281,"大圍站","新田圍 (循環線)",Regular
+KMB,281A,"廣源","九龍站",Regular
+KMB,281A,"九龍站","廣源",Regular
+KMB,281B,"碩門邨","尖沙咀東(麼地道)",Regular
+KMB,281E,"尖沙咀海防道","廣源",Regular
+KMB,281X,"耀安","尖沙咀東(麼地道)",Regular
+KMB,282,"沙田巿中心","新田圍(循環線)",Regular
+KMB,283,"沙田巿中心","美松苑(循環線)",Regular
+KMB,284,"沙田巿中心","濱景花園(循環線)",Regular
+KMB,285,"火炭駿洋邨","沙田市中心(循環線)",Regular
+KMB,285A,"火炭駿洋邨","火炭站 (循環線)",Regular
+KMB,285A,"火炭站","火炭駿洋邨 (循環線)",Regular
+KMB,285A,"火炭站","火炭駿洋邨",Special Service
+KMB,286A,"沙田圍","長沙灣 (循環線)",Regular
+KMB,286C,"利安","長沙灣(海達邨)",Regular
+KMB,286C,"長沙灣(海達邨)","利安",Regular
+KMB,286D,"馬鞍山市中心","深水埗",Regular
+KMB,286D,"深水埗(欽州街)","馬鞍山市中心",Regular
+KMB,286P,"美松苑","長沙灣",Regular
+KMB,286X,"顯徑","深水埗(循環線)",Regular
+KMB,286X,"顯徑","深水埗(循環線)",Special Service
+KMB,287,"大學站","西沙 GO PARK (循環線)",Regular
+KMB,287D,"紅磡站","錦英苑",Regular
+KMB,287P,"水泉澳","油麻地",Regular
+KMB,287X,"水泉澳","佐敦(循環線)",Regular
+KMB,288,"水泉澳(上)","沙田市中心(循環線)",Regular
+KMB,288A,"水泉澳","沙田市中心",Regular
+KMB,288B,"水泉澳","火炭駿洋邨",Regular
+KMB,288B,"火炭駿洋邨","水泉澳",Regular
+KMB,288C,"水泉澳","顯徑",Regular
+KMB,289K,"大學站","富安花園(循環線)",Regular
+KMB,289K,"富安花園","大學站",Special Service
+KMB,289R,"黃石碼頭","沙田巿中心",Regular
+KMB,289R,"沙田巿中心","黃石碼頭",Regular
+KMB,290,"坑口(北)(將軍澳醫院)","荃灣西站",Regular
+KMB,290,"荃灣西站","坑口(北)(將軍澳醫院)",Regular
+KMB,290A,"將軍澳(彩明)","荃灣西站",Regular
+KMB,290A,"上秀茂坪","荃灣西站",Special Service
+KMB,290A,"荃灣西站","將軍澳(彩明)",Regular
+KMB,290E,"將軍澳工業邨","荃灣西站",Regular
+KMB,290E,"荃灣西站","將軍澳工業邨",Regular
+KMB,290X,"康城站","荃灣西站",Regular
+KMB,290X,"調景嶺站","荃灣西站",Special Service
+KMB,290X,"荃灣西站","康城站",Regular
+KMB,290X,"荃灣西站","康城站",Special Service
+KMB,291P,"香港科技大學(南)","旺角",Regular
+KMB,292P,"西貢","觀塘",Regular
+KMB,293S,"坑口(銀澳路)","美孚",Regular
+KMB,293S,"美孚","坑口(銀澳路)",Regular
+KMB,296A,"尚德","牛頭角站(循環線)",Regular
+KMB,296C,"尚德","長沙灣(海盈邨)",Regular
+KMB,296C,"長沙灣(海盈邨)","尚德",Regular
+KMB,296D,"尚德","九龍站",Regular
+KMB,296D,"九龍站","尚德",Regular
+KMB,296M,"康盛花園","坑口站",Regular
+KMB,296M,"坑口站","康盛花園",Regular
+KMB,296M,"唐明苑","康盛花園",Special Service
+KMB,296P,"尚德","荔枝角站",Regular
+KMB,296P,"荔枝角站","尚德",Regular
+KMB,297,"寶林","紅磡(紅鸞道)",Regular
+KMB,297,"紅磡(紅鸞道)","寶林",Regular
+KMB,297P,"坑口(北)(將軍澳醫院)","紅磡(紅鸞道)",Regular
+KMB,298,"坑口站","百勝角(循環線)",Regular
+KMB,298E,"坑口(北)(將軍澳醫院)","將軍澳工業邨(循環線)",Regular
+KMB,298F,"坑口(北)(將軍澳醫院)","將軍澳工業邨(循環線)",Regular
+KMB,298X,"坑口(北)(將軍澳醫院)","美孚",Regular
+KMB,298X,"美孚","坑口(北)(將軍澳醫院)",Regular
+KMB,299X,"沙田巿中心","西貢",Regular
+KMB,299X,"西貢","沙田巿中心",Regular
+KMB,299X,"西貢","沙田巿中心",Special Service
+KMB,302,"慈雲山(北)","上環",Regular
+Citybus,302,"慈雲山 (北)","上環",Regular
+KMB,302A,"慈雲山(北)","北角(健康村)",Regular
+Citybus,302A,"慈雲山 (北)","北角 (健康村)",Regular
+KMB,307,"大埔中心","中環(渡輪碼頭)",Regular
+KMB,307,"大埔中心","上環",Special Service
+KMB,307,"中環(渡輪碼頭)","大埔中心",Regular
+Citybus,307,"大埔中心","中環碼頭／上環",Regular
+KMB,307A,"大埔頭","上環",Regular
+Citybus,307A,"大埔頭","上環",Regular
+KMB,307P,"大埔(汀太路)","銅鑼灣(天后)",Regular
+KMB,307P,"富蝶總站","銅鑼灣(天后)",Special Service
+KMB,307P,"銅鑼灣(天后)","大埔(汀太路)",Regular
+KMB,307P,"銅鑼灣(天后)","富蝶總站",Special Service
+Citybus,307P,"天后站","大埔 (汀太路／富蝶)",Regular
+Citybus,314,"小西灣 (藍灣半島)","赤柱 (海灘／市場)",Regular
+KMB,331,"馬灣(珀欣路)","荃灣站",Regular
+KMB,331,"荃灣站","馬灣(珀欣路)",Regular
+KMB,331S,"馬灣(珀欣路)","荃灣西站",Regular
+KMB,331S,"荃灣西站","馬灣(珀欣路)",Regular
+Citybus,347,"金鐘 (西)","香港仔 (經域多利道)",Regular
+KMB,373,"粉嶺(聯和墟)","中環(香港站)",Regular
+KMB,373,"中環(香港站)","粉嶺(聯和墟)",Regular
+Citybus,388,"柴灣站","柴灣墳場／歌連臣角",Regular
+Citybus,389,"筲箕灣","柴灣墳場／歌連臣角",Regular
+Citybus,511,"大坑徑","中環碼頭",Regular
+Citybus,580,"西沙GO PARK","沙田市中心",Regular
+Citybus,581,"西沙及十四鄉","馬鞍山市中心 (經烏溪沙站)",Regular
+Citybus,582,"白石角 (經大學站)","西沙及十四鄉",Regular
+Citybus,592,"海怡半島","銅鑼灣 (摩頓台)",Regular
+Citybus,595,"海怡半島","石排灣 (經香港仔)",Regular
+KMB,600,"安達臣","中環(林士街)",Regular
+KMB,600,"中環(林士街)","安達臣",Regular
+KMB,601,"寶達","金鐘站(東)",Regular
+KMB,601,"金鐘站(東)","寶達",Regular
+Citybus,601,"金鐘 (東)","寶達邨",Regular
+KMB,601P,"寶達","上環",Regular
+KMB,601P,"曉光街(曉麗苑)","上環",Special Service
+KMB,601P,"上環","寶達",Regular
+Citybus,601P,"寶達邨","上環",Regular
+KMB,603,"平田","中環(渡輪碼頭)",Regular
+KMB,603,"平田","金鐘(海富中心)",Special Service
+KMB,603,"中環(渡輪碼頭)","平田",Regular
+KMB,603A,"平田","中環街市",Regular
+KMB,603A,"中環(林士街)","平田",Regular
+KMB,603P,"中環(渡輪碼頭)","平田",Regular
+KMB,603S,"平田","中環(機利文街)",Regular
+KMB,606,"彩雲(豐盛街)","小西灣(藍灣半島)",Regular
+KMB,606,"彩雲(豐盛街)","小西灣(藍灣半島)",Special Service
+KMB,606,"小西灣(藍灣半島)","彩雲(豐盛街)",Regular
+Citybus,606,"小西灣 (藍灣半島)","彩雲 (豐盛街)",Regular
+KMB,606A,"彩雲(豐盛街)","筲箕灣(耀東邨)",Regular
+KMB,606A,"筲箕灣(耀東邨)","彩雲(豐盛街)",Regular
+Citybus,606A,"彩雲 (豐盛街)","耀東邨",Regular
+KMB,606X,"九龍灣","小西灣(藍灣半島)",Regular
+KMB,606X,"啟業","小西灣(藍灣半島)",Special Service
+KMB,606X,"啟業","小西灣(藍灣半島)",Special Service
+KMB,606X,"小西灣(藍灣半島)","九龍灣",Regular
+Citybus,606X,"小西灣 (藍灣半島)","九龍灣",Regular
+Citybus,608,"九龍城 (盛德街)","筲箕灣",Regular
+Citybus,608P,"小西灣 (藍灣半島)","啟德",Regular
+KMB,613,"安泰(西)(和泰樓)","筲箕灣",Regular
+KMB,613,"筲箕灣","安泰(西)(和泰樓)",Regular
+KMB,613A,"安泰(西)","杏花邨",Regular
+KMB,613A,"杏花邨","安泰(西)",Regular
+KMB,619,"順利","中環(港澳碼頭)",Regular
+KMB,619,"中環(港澳碼頭)","順利",Regular
+Citybus,619,"中環 (港澳碼頭)","順利邨",Regular
+KMB,619P,"順利","中環(港澳碼頭)",Regular
+Citybus,619P,"順利邨","中環 (港澳碼頭)",Regular
+KMB,619X,"順利","中環(港澳碼頭)",Regular
+KMB,619X,"中環(港澳碼頭)","順利",Regular
+Citybus,619X,"順利邨","中環 (港澳碼頭)",Regular
+KMB,621,"麗港城","中環(香港站)",Regular
+KMB,621,"中環(香港站)","麗港城",Regular
+Citybus,621,"麗港城","中環 (香港站)",Regular
+Citybus,629,"中環 (天星碼頭)","海洋公園 (正門／水上樂園)",Regular
+Citybus,629M,"海洋公園 (水上樂園)","黃竹坑站",Regular
+KMB,641,"啟德(啟晴邨)","中環(港澳碼頭)",Regular
+KMB,641,"中環(港澳碼頭)","啟德(啟晴邨)",Regular
+Citybus,641,"中環 (港澳碼頭)","啟德 (啟晴邨)",Regular
+KMB,671,"鑽石山站","鴨脷洲(利樂街)",Regular
+KMB,671,"鴨脷洲(利樂街)","鑽石山站",Regular
+Citybus,671,"鴨脷洲 (利樂街)","鑽石山站",Regular
+KMB,671X,"鴨脷洲(利樂街)","鑽石山站",Regular
+Citybus,671X,"鴨脷洲 (利樂街)","鑽石山站",Regular
+KMB,673,"上水","中環(香港站)",Regular
+KMB,673,"中環(香港站)","上水",Regular
+KMB,673A,"上水","中環(林士街)",Regular
+KMB,673A,"中環(香港站)","上水",Regular
+KMB,673P,"上水","中環(林士街)",Regular
+KMB,678,"上水","銅鑼灣(東院道)",Regular
+KMB,678,"銅鑼灣(東院道)","上水",Regular
+Citybus,678,"上水","銅鑼灣 (東院道)",Regular
+Citybus,679,"粉嶺皇后山","中環 (香港站)",Regular
+KMB,680,"利安","金鐘站(東)",Regular
+KMB,680,"利安","金鐘站(東)",Special Service
+KMB,680,"金鐘站(東)","利安",Regular
+Citybus,680,"金鐘 (東)","馬鞍山 (利安邨)",Regular
+KMB,680B,"富安花園","金鐘站(東)",Regular
+Citybus,680B,"馬鞍山 (富安花園)","金鐘 (東)",Regular
+KMB,680P,"烏溪沙站","金鐘站(東)",Regular
+Citybus,680P,"馬鞍山 (烏溪沙站)","金鐘 (東)",Regular
+KMB,680X,"烏溪沙站","中環(港澳碼頭)",Regular
+KMB,680X,"中環(港澳碼頭)","烏溪沙站",Regular
+Citybus,680X,"中環 (港澳碼頭)","馬鞍山 (烏溪沙站)",Regular
+KMB,681,"中環(香港站)","馬鞍山市中心",Regular
+KMB,681,"馬鞍山市中心","中環(香港站)",Regular
+Citybus,681,"中環 (香港站)","馬鞍山市中心",Regular
+KMB,681P,"耀安","上環",Regular
+KMB,681P,"上環","耀安",Regular
+Citybus,681P,"馬鞍山 (耀安邨)","上環",Regular
+Citybus,682,"柴灣 (東)","馬鞍山 (烏溪沙站)",Regular
+Citybus,682A,"馬鞍山市中心","柴灣 (東)",Regular
+Citybus,682B,"水泉澳邨","柴灣 (東)",Regular
+Citybus,682P,"烏溪沙站","柴灣 (東)",Regular
+KMB,690,"康盛花園","中環(交易廣場)",Regular
+KMB,690,"康盛花園","中環(交易廣場)",Special Service
+KMB,690,"中環(交易廣場)","康盛花園",Regular
+Citybus,690,"中環 (交易廣場)","將軍澳 (康盛花園)",Regular
+KMB,690P,"康盛花園","中環(交易廣場)",Regular
+Citybus,690P,"將軍澳 (康盛花園)","中環 (交易廣場)",Regular
+KMB,690S,"坑口(明德邨)","中環(交易廣場)",Regular
+KMB,690S,"中環(交易廣場)","坑口",Regular
+Citybus,690S,"中環 (交易廣場)","坑口 (經:日出康城)",Regular
+Citybus,694,"小西灣邨","調景嶺站",Regular
+Citybus,694S,"小西灣邨","調景嶺站 (經:日出康城)",Regular
+Citybus,701,"海麗邨／南昌站","旺角",Regular
+Citybus,701A,"海盈邨","旺角",Regular
+Citybus,701S,"海麗邨／南昌站","旺角",Regular
+Citybus,702,"海麗邨／南昌站","九龍塘 (又一城)",Regular
+Citybus,702A,"海盈邨","白田邨",Regular
+Citybus,702B,"白田 (北)","海盈邨",Regular
+Citybus,702S,"蘇屋邨","泓景臺／富昌邨",Regular
+Citybus,720,"嘉亨灣","中環 (港澳碼頭 / 永和街)",Regular
+Citybus,720A,"嘉亨灣","金鐘 (海富中心)/ 中環(畢打街)",Regular
+Citybus,720P,"太古城","中環 (永和街)",Regular
+Citybus,720X,"嘉亨灣","中環(林士街)",Regular
+Citybus,722,"耀東邨","中環碼頭",Regular
+Citybus,780,"柴灣 (東)","中環碼頭",Regular
+Citybus,780P,"興華 (經銅鑼灣)","中環碼頭",Regular
+Citybus,788,"小西灣 (藍灣半島)","中環 (港澳碼頭)",Regular
+Citybus,789,"小西灣 (藍灣半島)","金鐘 (樂禮街)",Regular
+Citybus,790,"清水灣半島 (經:日出康城)","尖沙咀(麼地道)",Regular
+Citybus,792M,"將軍澳站","西貢",Regular
+Citybus,793,"將軍澳工業邨","蘇屋",Regular
+Citybus,795,"將軍澳工業邨 (經:日出康城)","長沙灣 (海達)",Regular
+Citybus,795X,"清水灣半島 (經:尚德)","蘇屋 (經:旺角及美孚)",Regular
+Citybus,796P,"將軍澳站","尖沙咀(東)",Regular
+Citybus,796R,"香港體育館","日出康城",Regular
+Citybus,796S,"將軍澳站","牛頭角站",Regular
+Citybus,796X,"將軍澳工業邨／將軍澳站","尖沙咀 (東)",Regular
+Citybus,797,"日出康城／將軍澳工業邨","新蒲崗",Regular
+Citybus,798,"調景嶺站","火炭 (駿洋邨) (經:沙田)",Regular
+Citybus,798A,"將軍澳 (康盛花園)","沙田站",Regular
+Citybus,798P,"將軍澳工業邨","大圍站 (經:沙田)",Regular
+Citybus,798X,"將軍澳工業邨","火炭 (駿洋邨) (經:沙田)",Regular
+KMB,848,"沙田馬場","葵芳站",Regular
+KMB,868,"屯門巿中心","沙田馬場",Regular
+KMB,868,"沙田馬場","屯門巿中心",Regular
+KMB,869,"沙田馬場","天水圍市中心",Regular
+KMB,872,"沙田馬場","大埔中心",Regular
+KMB,872X,"沙田馬場","大埔中心",Regular
+KMB,887,"沙田馬場","旺角(柏景灣)",Regular
+KMB,888,"沙田馬場","沙田站",Regular
+KMB,889,"沙田馬場","平田",Regular
+KMB,891,"沙田馬場","九龍城碼頭",Regular
+KMB,893,"沙田馬場","康盛花園",Regular
+KMB,900,"白石角","灣仔(會展)",Regular
+KMB,900,"灣仔(會展)","白石角",Regular
+KMB,900,"灣仔(會展)","白石角",Special Service
+KMB,904,"荔枝角","堅尼地城(卑路乍灣)",Regular
+KMB,904,"堅尼地城(卑路乍灣)","荔枝角",Regular
+Citybus,904,"堅尼地城 (卑路乍灣)","荔枝角",Regular
+KMB,905,"荔枝角","會展站",Regular
+KMB,905,"會展站","荔枝角",Regular
+Citybus,905,"會展站","荔枝角",Regular
+KMB,905A,"會展站","荔枝角",Regular
+Citybus,905A,"會展站","荔枝角",Regular
+KMB,905P,"荔枝角","灣仔(港灣道)",Regular
+Citybus,905P,"荔枝角","灣仔 (港灣道)",Regular
+KMB,907B,"大埔廣福球場","灣仔(會展)",Regular
+Citybus,907B,"大埔 (廣福球場)","灣仔 (會議展覽中心)",Regular
+KMB,907C,"富蝶總站","灣仔(會展)",Regular
+KMB,907C,"金鐘站","富蝶總站",Regular
+Citybus,907C,"大埔 (富蝶)","灣仔 (會議展覽中心)",Regular
+KMB,907D,"大埔 (汀太路)","小西灣",Regular
+KMB,907D,"小西灣","大埔 (汀太路)",Regular
+Citybus,907D,"大埔 (汀太路)","小西灣運動場",Regular
+KMB,914,"海麗邨","銅鑼灣(天后)",Regular
+KMB,914,"銅鑼灣(天后)","海麗邨",Regular
+Citybus,914,"天后站","海麗邨",Regular
+KMB,914P,"海麗邨","銅鑼灣(天后)",Regular
+Citybus,914P,"海麗邨","天后站",Regular
+KMB,914X,"海麗邨","銅鑼灣(天后)",Regular
+Citybus,914X,"海麗邨","天后站",Regular
+KMB,917,"粉嶺公路","灣仔",Regular
+KMB,917,"灣仔","粉錦公路",Regular
+KMB,918,"林錦公路","灣仔",Regular
+KMB,918,"灣仔","林錦公路",Regular
+Citybus,930,"荃灣 (愉景新城／荃灣西站)","會展站",Regular
+Citybus,930A,"荃灣西站","會展站",Regular
+Citybus,930B,"葵盛 (東)","銅鑼灣 (摩頓台)",Regular
+Citybus,930X,"荃灣 (愉景新城)","銅鑼灣 (摩頓台)",Regular
+Citybus,933,"荃灣西站","西灣河",Regular
+KMB,934,"荃灣(灣景花園)","灣仔(菲林明道)",Regular
+KMB,934,"灣仔(菲林明道)","荃灣(灣景花園)",Regular
+KMB,934A,"荃灣(荃威花園)","灣仔(菲林明道)",Regular
+KMB,934A,"灣仔(菲林明道)","荃灣(荃威花園)",Regular
+KMB,935,"石籬(大隴街)","灣仔(菲林明道)",Regular
+KMB,935,"葵涌(安蔭邨)","灣仔(菲林明道)",Special Service
+KMB,935,"灣仔(菲林明道)","石籬(大隴街)",Regular
+KMB,936,"荃灣(石圍角)","銅鑼灣(棉花路)",Regular
+KMB,936,"銅鑼灣(棉花路)","石圍角",Regular
+KMB,936A,"荃灣(石圍角)","銅鑼灣(棉花路)",Regular
+KMB,936A,"銅鑼灣(棉花路)","梨木樹",Regular
+KMB,945,"元朗(鳳翔路)","北角",Regular
+KMB,945,"北角","元朗(鳳翔路)",Regular
+KMB,948,"青衣(長安邨)","銅鑼灣(天后)",Regular
+KMB,948,"銅鑼灣(天后)","青衣(長安邨)",Regular
+Citybus,948,"青衣 (長安邨)","天后站",Regular
+KMB,948A,"青衣(長安邨)","銅鑼灣(天后)",Regular
+Citybus,948A,"長安邨","天后站",Regular
+KMB,948B,"翠怡花園","銅鑼灣(天后)",Regular
+Citybus,948B,"青衣 (翠怡花園)","天后站",Regular
+KMB,948E,"青衣站","太古(康怡廣場)",Regular
+KMB,948E,"太古(康怡廣場)","青衣站",Regular
+Citybus,948E,"青衣站","太古 (康怡廣場)",Regular
+KMB,948P,"青衣(長安邨)","銅鑼灣(天后)",Regular
+Citybus,948P,"長安邨","天后站",Regular
+KMB,948X,"青衣(長宏邨)","銅鑼灣(天后)",Regular
+Citybus,948X,"長宏邨","天后站",Regular
+Citybus,950,"屯門 (菁田及和田)","會展站",Regular
+Citybus,952,"屯門 (置樂花園)","銅鑼灣 (摩頓台)／金鐘 (西)",Regular
+Citybus,952C,"掃管笏","太古 (康怡廣場)",Regular
+Citybus,952P,"屯門 (置樂花園)","銅鑼灣 (摩頓台)",Regular
+Citybus,955,"屯門 (菁田及和田)","西灣河",Regular
+KMB,960,"屯門(建生邨)","會展站",Regular
+KMB,960,"會展站","屯門(建生邨)",Regular
+KMB,960A,"中環","洪水橋(洪福邨)",Regular
+KMB,960B,"鰂魚涌(英皇道)","屯門(建生邨)",Regular
+KMB,960B,"屯門(建生邨)","鰂魚涌(英皇道)",Regular
+KMB,960C,"屯門(富泰邨)","銅鑼灣(維園)",Regular
+KMB,960C,"銅鑼灣","富泰邨",Regular
+KMB,960P,"洪水橋(洪元路)","銅鑼灣(維園)",Regular
+KMB,960P,"銅鑼灣","洪水橋",Regular
+KMB,960S,"屯門(富泰邨)","銅鑼灣(維園)",Regular
+KMB,960S,"銅鑼灣","屯門(富泰邨)",Regular
+KMB,960X,"洪水橋(洪元路)","鰂魚涌(英皇道)",Regular
+KMB,960X,"鰂魚涌(英皇道)","洪水橋",Regular
+KMB,961,"屯門(山景邨)","灣仔(會展)",Regular
+KMB,961,"屯門(山景邨)","灣仔(會展)",Special Service
+KMB,961,"灣仔(會展)","屯門(山景邨)",Regular
+KMB,961,"灣仔(會展)","屯門(山景邨)",Special Service
+KMB,961P,"屯門(良景邨)","銅鑼灣(維園)",Regular
+KMB,961S,"屯門(良景邨)","銅鑼灣(維園)",Regular
+KMB,961S,"屯門(良景邨)","銅鑼灣(維園)",Special Service
+Citybus,962,"屯門 (龍門居)","銅鑼灣 (摩頓台)",Regular
+Citybus,962A,"屯門 (悅湖山莊)","金鐘",Regular
+Citybus,962C,"屯門 (龍門居)","太古 (康怡廣場)",Regular
+Citybus,962G,"銅鑼灣 (摩頓台)","屯門 (悅湖山莊)",Regular
+Citybus,962P,"屯門 (龍門居)","銅鑼灣 (摩頓台)",Regular
+Citybus,962X,"屯門 (龍門居)","銅鑼灣 (摩頓台)",Regular
+Citybus,967,"天水圍 (天恩邨)","金鐘 (西)",Regular
+Citybus,967X,"天水圍 (天恩邨)","銅鑼灣 (經天水圍北)",Regular
+KMB,968,"元朗(西)","銅鑼灣(天后)",Regular
+KMB,968,"元朗公園","銅鑼灣(天后)",Special Service
+KMB,968,"銅鑼灣(天后)","元朗(西)",Regular
+KMB,968,"菲林明道","元朗(西)",Special Service
+KMB,968A,"元朗(西)","銅鑼灣(天后)",Regular
+KMB,968X,"元朗(德業街)","鰂魚涌(英皇道)",Regular
+KMB,968X,"鰂魚涌(英皇道)","元朗(德業街)",Regular
+Citybus,969,"天水圍市中心","銅鑼灣 (摩頓台)",Regular
+Citybus,969A,"天水圍 (北)","灣仔",Regular
+Citybus,969B,"天水圍市中心","灣仔",Regular
+Citybus,969C,"天水圍 (天瑞邨)","太古 (康怡廣場)",Regular
+Citybus,969N,"天水圍市中心","銅鑼灣 (摩頓台)",Regular
+Citybus,969P,"天水圍市中心","銅鑼灣 (摩頓台)",Regular
+Citybus,969X,"天水圍市中心","銅鑼灣 (經天水圍南)",Regular
+Citybus,970,"數碼港","蘇屋邨",Regular
+Citybus,970X,"香港仔","長沙灣 (甘泉街)",Regular
+Citybus,971,"香港仔 (石排灣)","海麗邨",Regular
+Citybus,971R,"數碼港 (經域多利道)","旺角",Regular
+Citybus,973,"尖沙咀 (麼地道)","赤柱市場",Regular
+Citybus,976,"落馬洲 (新田)","西灣河",Regular
+Citybus,976A,"落馬洲 (新田)","小西灣 (藍灣半島)",Regular
+KMB,978,"粉嶺(華明)","會展站",Regular
+KMB,978,"會展站","粉嶺(華明)",Regular
+KMB,978A,"粉嶺(聯和墟)","會展站",Regular
+KMB,978A,"會展站","粉嶺(聯和墟)",Regular
+KMB,978B,"粉嶺置福圍","會展站",Regular
+Citybus,979,"粉嶺皇后山","中環 (香港站)",Regular
+KMB,980A,"碩門邨","灣仔(菲林明道)",Regular
+Citybus,980A,"碩門邨","灣仔",Regular
+KMB,980X,"烏溪沙站","灣仔(菲林明道)",Regular
+KMB,980X,"金鐘站(東)","烏溪沙站",Regular
+Citybus,980X,"馬鞍山 (烏溪沙站)","灣仔",Regular
+KMB,981P,"耀安","灣仔(菲林明道)",Regular
+KMB,981P,"金鐘站(東)","耀安",Regular
+Citybus,981P,"馬鞍山 (耀安邨)","灣仔",Regular
+Citybus,982C,"碩門邨","西灣河",Regular
+KMB,982X,"愉翠苑","灣仔(菲林明道)",Regular
+KMB,982X,"水泉澳","灣仔(菲林明道)",Special Service
+KMB,982X,"金鐘站(東)","愉翠苑",Regular
+Citybus,982X,"沙田 (愉翠苑)","灣仔",Regular
+KMB,985,"美田(美致樓)","灣仔",Regular
+KMB,985,"金鐘站(東)","美田",Regular
+Citybus,985,"沙田 (美田邨)","銅鑼灣",Regular
+KMB,985A,"美田(美致樓)","灣仔",Regular
+Citybus,985A,"沙田 (美田邨)","銅鑼灣",Regular
+KMB,985B,"田心村","灣仔",Regular
+Citybus,985B,"田心村","銅鑼灣",Regular
+Citybus,986,"沙田圍","西灣河",Regular
+Citybus,987,"西灣河","火炭(駿洋邨)",Regular
+Citybus,988,"柴灣 (東)","泥涌",Regular
+Citybus,989,"火炭 (駿洋邨)","西灣河",Regular
+Citybus,A10,"鴨脷洲 (利樂街)","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A11,"北角碼頭","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A12,"小西灣 (藍灣半島)","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A17,"深灣 (經海洋公園)","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A20,"紅磡站","機場",Regular
+Citybus,A21,"紅磡站","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A22,"藍田站","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A23,"慈雲山 (北)","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A25,"啟德 (經尖沙咀)","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A25S,"啟德體育園","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A26,"油塘","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A28,"日出康城","機場 (經港珠澳大橋香港口岸)",Regular
+Citybus,A29,"將軍澳 (寶琳)","機場 (經港珠澳大橋香港口岸)",Regular
+KMB,A30,"梨木樹","機場(地面運輸中心)",Regular
+KMB,A30,"梨木樹","機場(地面運輸中心)",Special Service
+KMB,A30,"機場(地面運輸中心)","梨木樹",Regular
+KMB,A30,"機場(地面運輸中心)","梨木樹",Special Service
+KMB,A31,"荃灣(如心廣場)","機場(地面運輸中心)",Regular
+KMB,A31,"荃灣(如心廣場)","機場(地面運輸中心)",Special Service
+KMB,A31,"機場(地面運輸中心)","荃灣(如心廣場)",Regular
+KMB,A31,"機場(地面運輸中心)","荃灣(如心廣場)",Special Service
+KMB,A32,"葵涌邨","機場(地面運輸中心)",Regular
+KMB,A32,"葵涌邨","機場(地面運輸中心)",Special Service
+KMB,A32,"機場(地面運輸中心)","葵涌邨",Regular
+KMB,A32,"機場(地面運輸中心)","葵涌邨",Special Service
+KMB,A33,"屯門公路轉車站","機場(地面運輸中心)",Regular
+KMB,A33,"屯門公路轉車站","機場(地面運輸中心)",Special Service
+KMB,A33,"機場(地面運輸中心)","屯門公路轉車站",Regular
+KMB,A33,"機場(地面運輸中心)","屯門公路轉車站",Special Service
+KMB,A33X,"屯門(富泰邨)","機場(地面運輸中心)",Regular
+KMB,A33X,"屯門(富泰邨)","機場(地面運輸中心)",Special Service
+KMB,A33X,"屯門(富泰邨)","機場(地面運輸中心)",Special Service
+KMB,A33X,"機場(地面運輸中心)","屯門(富泰邨)",Regular
+KMB,A33X,"國泰城","屯門(富泰邨)",Special Service
+KMB,A33X,"機場(地面運輸中心)","屯門(富泰邨)",Special Service
+KMB,A34,"洪水橋(洪元路)","機場(地面運輸中心)",Regular
+KMB,A34,"洪水橋(洪元路)","機場(地面運輸中心)",Special Service
+KMB,A34,"機場(地面運輸中心)","洪水橋(洪元路)",Regular
+KMB,A34,"機場(地面運輸中心)","洪水橋(洪元路)",Special Service
+KMB,A36,"錦上路站","機場(地面運輸中心)",Regular
+KMB,A36,"錦上路站","機場(地面運輸中心)",Special Service
+KMB,A36,"錦上路站","機場(地面運輸中心)",Special Service
+KMB,A36,"錦上路站","機場(地面運輸中心)",Special Service
+KMB,A36,"機場(地面運輸中心)","錦上路站",Regular
+KMB,A36,"機場(地面運輸中心)","錦上路站",Special Service
+KMB,A36,"機場(地面運輸中心)","錦上路站",Special Service
+KMB,A36,"機場(地面運輸中心)","錦上路站",Special Service
+KMB,A37,"朗屏站","機場(地面運輸中心)",Regular
+KMB,A37,"朗屏站","機場(地面運輸中心)",Special Service
+KMB,A37,"機場(地面運輸中心)","朗屏站",Regular
+KMB,A37,"機場(地面運輸中心)","朗屏站",Special Service
+KMB,A38,"荃灣(荃威花園)","機場(地面運輸中心)",Regular
+KMB,A38,"荃灣(荃威花園)","機場(地面運輸中心)",Special Service
+KMB,A38,"機場(地面運輸中心)","荃灣(荃威花園)",Regular
+KMB,A38,"機場(地面運輸中心)","荃灣(荃威花園)",Special Service
+KMB,A41,"碩門邨","機場(地面運輸中心)",Regular
+KMB,A41,"碩門邨","機場(地面運輸中心)",Special Service
+KMB,A41,"碩門邨","機場(地面運輸中心)",Special Service
+KMB,A41,"機場(地面運輸中心)","碩門邨",Regular
+KMB,A41,"機場(地面運輸中心)","碩門邨",Special Service
+KMB,A41,"機場(地面運輸中心)","碩門邨",Special Service
+KMB,A41,"機場(地面運輸中心)","碩門邨",Special Service
+KMB,A41P,"烏溪沙站","機場(地面運輸中心)",Regular
+KMB,A41P,"烏溪沙站","機場(地面運輸中心)",Special Service
+KMB,A41P,"機場(地面運輸中心)","烏溪沙站",Regular
+KMB,A41P,"機場(地面運輸中心)","烏溪沙站",Special Service
+KMB,A42,"黃泥頭","機場(地面運輸中心)",Regular
+KMB,A42,"機場(地面運輸中心)","黃泥頭",Regular
+KMB,A43,"粉嶺(聯和墟)","機場(地面運輸中心)",Regular
+KMB,A43,"粉嶺(聯和墟)","機場(地面運輸中心)",Special Service
+KMB,A43,"機場(地面運輸中心)","粉嶺(聯和墟)",Regular
+KMB,A43P,"粉嶺(聯和墟)","機場(地面運輸中心)",Regular
+KMB,A43P,"機場(地面運輸中心)","粉嶺(聯和墟)",Regular
+KMB,A43P,"機場(地面運輸中心)","粉嶺(聯和墟)",Special Service
+KMB,A46,"火炭(駿景園)","機場(地面運輸中心)",Regular
+KMB,A46,"機場(地面運輸中心)","火炭(駿景園)",Regular
+KMB,A47X,"大埔(太和)","機場(地面運輸中心)",Regular
+KMB,A47X,"大埔(太和)","機場(地面運輸中心)",Special Service
+KMB,A47X,"大埔(太和)","機場(地面運輸中心)",Special Service
+KMB,A47X,"大埔(太和)","機場(地面運輸中心)",Special Service
+KMB,A47X,"機場(地面運輸中心)","大埔(太和)",Regular
+KMB,A47X,"機場(地面運輸中心)","大埔(太和)",Special Service
+KMB,A47X,"機場(地面運輸中心)","大埔(太和)",Special Service
+KMB,A47X,"機場(地面運輸中心)","大埔(太和)",Special Service
+KMB,B1,"天慈","落馬洲站(福田)",Regular
+KMB,B1,"媽橫路(山水樓)","落馬洲站(福田)",Special Service
+KMB,B1,"落馬洲站(福田)","天慈",Regular
+KMB,B1,"落馬洲站(福田)","媽橫路(山水樓)",Special Service
+Citybus,B3,"屯門碼頭","深圳灣口岸",Regular
+Citybus,B3A,"山景邨","深圳灣口岸",Regular
+Citybus,B3M,"深圳灣口岸","屯門站",Regular
+Citybus,B3X,"屯門市中心","深圳灣口岸",Regular
+Citybus,B5,"港珠澳大橋香港口岸","欣澳站",Regular
+Citybus,B7,"上水 (寶運路) (經粉嶺站)","香園圍口岸 (經粉嶺站)",Regular
+Citybus,B7X,"上水站","香園圍口岸",Regular
+Citybus,B8,"大圍站 (經大埔)","香園圍口岸 (經大埔)",Regular
+KMB,B9,"屯門站","香園圍口岸(蓮塘)",Regular
+KMB,B9,"元朗(朗日路)","香園圍口岸(蓮塘)",Special Service
+KMB,B9,"屯門站","香園圍口岸(蓮塘)",Special Service
+KMB,B9,"香園圍口岸(蓮塘)","屯門站",Regular
+KMB,B9,"香園圍口岸(蓮塘)","元朗(形點)",Special Service
+KMB,B9A,"元朗(西)","香園圍口岸(蓮塘)",Regular
+KMB,B9A,"香園圍口岸(蓮塘)","元朗(西)",Regular
+Citybus,E11,"天后站","航天城",Regular
+Citybus,E11A,"天后站","航天城 (經東涌北)",Regular
+Citybus,E11B,"天后站","東涌 (滿東邨)",Regular
+Citybus,E11S,"東涌 (滿東邨)","天后站",Regular
+Citybus,E21,"大角咀 (維港灣)","航天城",Regular
+Citybus,E21A,"何文田 (愛民邨)","東涌 (逸東邨)",Regular
+Citybus,E21B,"何文田 (愛民邨)","東涌 (逸東邨)",Regular
+Citybus,E21C,"大角咀 (維港灣)","飛機維修區",Regular
+Citybus,E21D,"大角咀 (維港灣)","航天城 (經:東涌北)",Regular
+Citybus,E21X,"東涌 (滿東邨)","紅磡站",Regular
+Citybus,E22,"藍田 (北)","航天城",Regular
+Citybus,E22A,"將軍澳 (康盛花園)","航天城",Regular
+Citybus,E22C,"調景嶺站","飛機維修區",Regular
+Citybus,E22P,"油塘","航天城",Regular
+Citybus,E22S,"東涌 (滿東邨)","將軍澳 (寶琳)",Regular
+Citybus,E22X,"油塘","航天城",Regular
+Citybus,E23,"慈雲山 (南)","機場 (地面運輸中心)",Regular
+Citybus,E23A,"慈雲山 (南)","機場 (經東涌北)",Regular
+KMB,E31,"荃灣(愉景新城)","東涌(逸東)",Regular
+KMB,E31,"東涌(逸東)","荃灣(愉景新城)",Regular
+KMB,E32,"葵芳(南)","航天城",Regular
+KMB,E32,"葵芳(南)","航天城",Special Service
+KMB,E32,"航天城","葵芳(南)",Regular
+KMB,E32,"航天城","葵芳(南)",Special Service
+KMB,E32A,"葵芳(南)","東涌發展碼頭",Regular
+KMB,E32A,"東涌發展碼頭","葵芳(南)",Regular
+KMB,E33,"屯門巿中心","機場(地面運輸中心)",Regular
+KMB,E33,"機場(地面運輸中心)","屯門巿中心",Regular
+KMB,E33P,"兆康站(南)","機場(地面運輸中心)",Regular
+KMB,E33P,"寶怡花園","機場(地面運輸中心)",Special Service
+KMB,E33P,"機場(地面運輸中心)","兆康站(南)",Regular
+KMB,E36,"八鄉路","機場(地面運輸中心)",Regular
+KMB,E36,"機場(地面運輸中心)","八鄉路",Regular
+KMB,E36A,"元朗(德業街)","東涌(逸東)",Regular
+KMB,E36A,"東涌(逸東)","元朗(德業街)",Regular
+KMB,E36C,"元朗(德業街)","飛機維修區",Regular
+KMB,E36C,"飛機維修區","元朗(德業街)",Regular
+KMB,E36P,"上村","航天城",Regular
+KMB,E36P,"航天城","上村",Regular
+KMB,E36S,"元朗(媽橫路)","機場(地面運輸中心)",Regular
+KMB,E36S,"機場(地面運輸中心)","元朗(媽橫路)",Regular
+KMB,E37,"天水圍市中心","機場(地面運輸中心)",Regular
+KMB,E37,"天水圍市中心","機場(地面運輸中心)",Special Service
+KMB,E37,"天頌苑頌棋閣","機場(地面運輸中心)",Special Service
+KMB,E37,"機場(地面運輸中心)","天水圍市中心",Regular
+KMB,E37C,"天水圍市中心","飛機維修區",Regular
+KMB,E37C,"屯門(紅橋)","飛機維修區",Special Service
+KMB,E37C,"飛機維修區","天水圍市中心",Regular
+KMB,E41,"大埔頭","航天城",Regular
+KMB,E41,"航天城","大埔頭",Regular
+KMB,E42,"博康","機場(地面運輸中心)",Regular
+KMB,E42,"機場(地面運輸中心)","博康",Regular
+KMB,E42C,"博康","飛機維修區",Regular
+KMB,E42C,"飛機維修區","博康",Regular
+KMB,E42P,"火炭(山尾街)","東涌(逸東)",Regular
+KMB,E42P,"東涌(逸東)","火炭(山尾街)",Regular
+KMB,E43,"粉嶺(華明)","東涌發展碼頭",Regular
+KMB,E43,"東涌發展碼頭","粉嶺(華明)",Regular
+Citybus,H1,"中環 (天星碼頭)","尖沙咀",Regular
+Citybus,H1S,"中環 (天星碼頭)","西九文化區",Regular
+Citybus,H2,"中環 (天星碼頭)","尖沙咀",Regular
+Citybus,H2K,"中環(天星碼頭)","西九文化區",Regular
+Citybus,H3,"香港摩天輪／中環碼頭 - 天星小輪","赤柱村／赤柱市集",Regular
+Citybus,H4,"赤柱村／赤柱市集","香港摩天輪／中環碼頭 - 天星小輪",Regular
+KMB,HK1,"尖沙咀碼頭","尖沙咀碼頭(循環線)",Regular
+Citybus,N11,"中環 (港澳碼頭)","機場 (地面運輸中心)",Regular
+KMB,N116,"北角","慈雲山(中)",Regular
+KMB,N118,"長沙灣(深旺道)","小西灣(藍灣半島)",Regular
+KMB,N118,"小西灣(藍灣半島)","長沙灣(深旺道)",Regular
+Citybus,N118,"小西灣 (藍灣半島)","長沙灣 (深旺道)",Regular
+KMB,N121,"中環(港澳碼頭)","牛頭角",Regular
+KMB,N121,"牛頭角","中環(港澳碼頭)",Regular
+Citybus,N121,"中環 (港澳碼頭)","牛頭角",Regular
+KMB,N122,"美孚","筲箕灣",Regular
+KMB,N122,"筲箕灣","美孚",Regular
+Citybus,N122,"筲箕灣","美孚",Regular
+KMB,N170,"沙田巿中心","華富(中)",Regular
+KMB,N170,"華富(中)","沙田巿中心",Regular
+Citybus,N170,"華富 (中)","沙田巿中心",Regular
+KMB,N171,"荔枝角","鴨脷洲邨",Regular
+KMB,N171,"鴨脷洲邨","荔枝角",Regular
+Citybus,N171,"鴨脷洲邨","荔枝角",Regular
+KMB,N182,"廣源","中環(港澳碼頭)",Regular
+KMB,N182,"中環(港澳碼頭)","廣源",Regular
+Citybus,N182,"中環 (港澳碼頭)","沙田 (廣源)",Regular
+Citybus,N20,"大角咀 (維港灣)","啟德 (沐安街)",Regular
+Citybus,N21,"尖沙咀 (天星碼頭)","機場 (地面運輸中心)",Regular
+KMB,N213,"尖沙咀東(麼地道)","安泰(西)",Regular
+KMB,N214,"油塘","美孚",Regular
+KMB,N216,"油塘","紅磡站",Regular
+KMB,N216,"紅磡站","油塘",Regular
+Citybus,N21A,"尖沙咀 (天星碼頭)","機場 (經逸東邨)",Regular
+Citybus,N23,"慈雲山 (北)","東涌站",Regular
+KMB,N237,"美孚","葵盛(循環線)",Regular
+KMB,N241,"紅磡站","青衣(長宏邨)",Regular
+KMB,N241,"青衣(長宏邨)","紅磡站",Regular
+KMB,N243,"青衣站","長青(循環線)",Regular
+KMB,N252,"美孚","屯門(三聖邨)",Regular
+Citybus,N26,"油塘","東涌站",Regular
+KMB,N260,"屯門碼頭","美孚",Regular
+KMB,N260,"美孚","屯門碼頭",Regular
+KMB,N269,"天慈","美孚",Regular
+KMB,N269,"美孚","天慈",Regular
+KMB,N271,"大埔(富亨)","紅磡站",Regular
+KMB,N271,"紅磡站","大埔(富亨)",Regular
+KMB,N273,"彩園","上水(彩園)",Regular
+KMB,N276,"天慈","新田運輸交匯處",Regular
+KMB,N276,"新田運輸交匯處","天慈",Regular
+KMB,N281,"錦英苑","紅磡站",Regular
+KMB,N281,"紅磡站","錦英苑",Regular
+KMB,N283,"尖沙咀東(麼地道)","黃泥頭",Regular
+KMB,N287,"尖沙咀東(麼地道)","烏溪沙站",Regular
+Citybus,N29,"將軍澳 (康盛花園)","東涌站",Regular
+KMB,N290,"荃灣西站","康城站",Regular
+KMB,N290,"康城站","荃灣西站",Regular
+KMB,N293,"尚德","旺角(柏景灣)",Regular
+KMB,N293,"旺角(柏景灣)","尚德",Regular
+KMB,N30,"元朗站","機場(暢達路)",Regular
+KMB,N30,"機場(暢達路)","元朗站",Regular
+KMB,N307,"太和","上環",Regular
+KMB,N307,"中環(港澳碼頭)","太和",Regular
+Citybus,N307,"上環","太和",Regular
+KMB,N31,"荃灣(愉景新城)","機場(地面運輸中心)",Regular
+KMB,N31,"機場(地面運輸中心)","荃灣(愉景新城)",Regular
+KMB,N36,"荃灣站","梨木樹(循環線)",Regular
+KMB,N368,"元朗(西)","中環(港澳碼頭)",Regular
+KMB,N368,"中環(港澳碼頭)","元朗(西)",Regular
+KMB,N368,"中環(港澳碼頭)","元朗(西)",Special Service
+KMB,N373,"粉嶺(聯和墟)","中環(港澳碼頭)",Regular
+KMB,N373,"中環(港澳碼頭)","粉嶺(聯和墟)",Regular
+KMB,N39,"荃灣站","荃威花園(循環線)",Regular
+KMB,N3D,"觀塘(裕民坊)","慈雲山(中)",Regular
+KMB,N3D,"慈雲山(中)","觀塘(裕民坊)",Regular
+KMB,N41X,"紅磡站","青衣(長宏邨)",Regular
+KMB,N42,"耀安","東涌站",Regular
+KMB,N42,"東涌站","耀安",Regular
+KMB,N42A,"粉嶺(聯和墟)","東涌站",Regular
+KMB,N42A,"東涌站","粉嶺(聯和墟)",Regular
+KMB,N43,"荃灣站","青衣(長宏邨)",Regular
+KMB,N48,"愉翠苑","荃灣(灣景花園)",Regular
+KMB,N48,"荃灣(灣景花園)","愉翠苑",Regular
+Citybus,N50,"屯門 (菁田及和田)","尖沙咀 (九龍站)",Regular
+KMB,N601,"金鐘站(東)","寶達",Regular
+KMB,N619,"順利","中環(港澳碼頭)",Regular
+KMB,N619,"中環(港澳碼頭)","順利",Regular
+Citybus,N619,"中環 (港澳碼頭)","順利邨",Regular
+KMB,N64,"機場(地面運輸中心)","東涌(逸東)",Regular
+KMB,N680,"錦英苑","中環(港澳碼頭)",Regular
+KMB,N680,"中環(港澳碼頭)","錦英苑",Regular
+Citybus,N680,"中環 (港澳碼頭)","馬鞍山 (錦英苑)",Regular
+KMB,N691,"調景嶺","中環(港澳碼頭)",Regular
+KMB,N691,"中環(港澳碼頭)","調景嶺",Regular
+Citybus,N691,"中環 (港澳碼頭)","調景嶺 (景嶺路)",Regular
+Citybus,N72,"華貴邨","鰂魚涌 (海澤街)",Regular
+KMB,N73,"沙田巿中心","落馬洲",Regular
+KMB,N73,"落馬洲","沙田巿中心",Regular
+KMB,N78,"上水","沙頭角",Regular
+KMB,N78,"沙頭角","上水",Regular
+Citybus,N796,"日出康城","旺角 (經尖沙咀)",Regular
+Citybus,N8,"杏花邨 (城巴創富道車廠)","鰂魚涌",Regular
+Citybus,N8P,"小西灣 (藍灣半島)","灣仔 (港灣道)",Regular
+Citybus,N8X,"小西灣 (藍灣半島)","堅尼地城",Regular
+Citybus,N90,"海怡半島","中環 (港澳碼頭)",Regular
+Citybus,N930,"荃灣 (愉景新城)","銅鑼灣 (摩頓台)",Regular
+Citybus,N952,"屯門 (置樂花園)","銅鑼灣 (摩頓台)",Regular
+KMB,N960,"屯門(建生邨)","會展站",Regular
+KMB,N960,"會展站","屯門(建生邨)",Regular
+Citybus,N962,"屯門 (龍門居)","銅鑼灣 (摩頓台)",Regular
+Citybus,N969,"天水圍市中心","銅鑼灣 (摩頓台)",Regular
+Citybus,NA10,"鴨脷洲 (利樂街)","機場 / 港珠澳大橋香港口岸",Regular
+Citybus,NA11,"北角碼頭","機場 / 港珠澳大橋香港口岸",Regular
+Citybus,NA12,"杏花邨","機場 / 港珠澳大橋香港口岸",Regular
+Citybus,NA20,"黃埔花園","機場 / 港珠澳大橋香港口岸",Regular
+Citybus,NA21,"機場 / 港珠澳大橋香港口岸","大角咀 (海輝道)",Regular
+Citybus,NA29,"將軍澳 (寶琳)","機場 / 港珠澳大橋香港口岸",Regular
+KMB,NA30,"梨木樹","港珠澳大橋香港口岸",Regular
+KMB,NA30,"港珠澳大橋香港口岸","梨木樹",Regular
+KMB,NA31,"荃灣(如心廣場)","港珠澳大橋香港口岸",Regular
+KMB,NA31,"港珠澳大橋香港口岸","荃灣(如心廣場)",Regular
+KMB,NA32,"葵涌邨","港珠澳大橋香港口岸",Regular
+KMB,NA32,"港珠澳大橋香港口岸","葵涌邨",Regular
+KMB,NA33,"國泰城","屯門(富泰邨)",Regular
+KMB,NA33,"屯門(富泰邨)","國泰城",Regular
+KMB,NA36,"國泰城","錦上路站",Regular
+KMB,NA36,"錦上路站","國泰城",Regular
+KMB,NA37,"天水圍市中心","國泰城",Regular
+KMB,NA37,"國泰城","天水圍市中心",Regular
+KMB,NA40,"烏溪沙站","港珠澳大橋香港口岸",Regular
+KMB,NA40,"港珠澳大橋香港口岸","烏溪沙站",Regular
+KMB,NA41,"水泉澳","港珠澳大橋香港口岸",Regular
+KMB,NA41,"港珠澳大橋香港口岸","水泉澳",Regular
+KMB,NA43,"粉嶺(聯和墟)","港珠澳大橋香港口岸",Regular
+KMB,NA43,"港珠澳大橋香港口岸","粉嶺(聯和墟)",Regular
+KMB,NA47,"大埔(太和)","港珠澳大橋香港口岸",Regular
+KMB,NA47,"港珠澳大橋香港口岸","大埔(太和)",Regular
+Citybus,NP1,"機場／昂坪360 - 東涌纜車站","香港迪士尼樂園",Regular
+Citybus,NP2,"昂坪360 - 東涌纜車站","香港迪士尼樂園",Regular
+Citybus,NP3,"昂坪360 - 東涌纜車站","飛機維修區",Regular
+Citybus,NP4,"昂坪360 - 東涌纜車站","機場 (客運大樓)",Regular
+Citybus,NP5,"昂坪360 - 東涌纜車站","香港迪士尼樂園酒店",Regular
+KMB,P960,"兆康站(北)","會展站",Regular
+KMB,P960,"會展站","兆康站(北)",Regular
+KMB,P968,"元朗(西)","銅鑼灣(天后)",Regular
+KMB,P968,"朗屏站","銅鑼灣(天后)",Special Service
+KMB,P968,"銅鑼灣(天后)","元朗(西)",Regular
+KMB,PB1A,"大埔超級城(太和路)","西沙 GO PARK  (由大埔出發 循環行走)",Regular
+KMB,PB1B,"調景嶺","西沙 GO PARK",Regular
+KMB,PB2A,"中環海濱","西九文化區",Regular
+KMB,PB2B,"石門站","西九龍文化區 (由沙田出發 循環行走)",Regular
+KMB,PB3A,"啟德","北角匯",Regular
+KMB,PB3B,"荃灣","北角(由荃灣出發 循環行走)",Regular
+KMB,PBD1,"將軍澳","愉景廣場",Regular
+KMB,PBD1,"愉景廣場","將軍澳",Regular
+KMB,PBD2,"屯門站 (V CITY)","愉景廣場",Regular
+KMB,PBD2,"愉景廣場","屯門站 (V CITY)",Regular
+KMB,PBS1,"荃灣","馬灣(由荃灣出發 循環行走)",Regular
+KMB,PBS2,"中環","馬灣 (由中環出發 循環行走)",Regular
+Citybus,R11,"迪士尼樂園","北角碼頭",Regular
+KMB,R230,"荃灣(荃威花園)","尖沙咀東(麼地道)",Regular
+KMB,R241,"青衣(長宏邨)","尖沙咀東(麼地道)",Regular
+KMB,R33,"迪士尼樂園","屯門站",Regular
+KMB,R33,"迪士尼樂園","屯門站",Special Service
+KMB,R33,"屯門站","迪士尼樂園",Regular
+KMB,R33,"屯門站","迪士尼樂園",Special Service
+KMB,R42,"迪士尼樂園","大圍站",Regular
+KMB,R42,"大圍站","迪士尼樂園",Regular
+KMB,R78,"粉嶺站","新圍軍營(循環線)",Regular
+KMB,R8,"迪士尼樂園","青嶼幹線轉車站(循環線)",Regular
+KMB,R8,"迪士尼樂園","青嶼幹線轉車站(循環線)",Special Service
+Citybus,R8,"迪士尼樂園","青嶼幹線巴士轉乘站",Regular
+KMB,R934,"荃灣(灣景花園)","銅鑼灣(維多利亞公園)",Regular
+KMB,R936,"荃灣(石圍角)","銅鑼灣(維多利亞公園)",Regular
+KMB,R948,"青衣(長宏邨)","銅鑼灣(維多利亞公園)",Regular
+KMB,S1,"東涌站","機場(循環線)",Regular
+Citybus,S1,"東涌站","機場 (一號客運大樓／博覽館)",Regular
+Citybus,S52,"東涌 (逸東邨)","飛機維修區",Regular
+Citybus,S52A,"裕雅苑","飛機維修區",Regular
+Citybus,S52P,"東涌 (逸東邨)","駿坪路 (亞洲空運中心)",Regular
+Citybus,S56,"東涌站","機場 (一號客運大樓)",Regular
+KMB,S64,"東涌(逸東)","機場(循環線)",Regular
+KMB,S64C,"東涌(逸東)","航膳東路(循環線)",Regular
+KMB,S64C,"超級一號貨站","東涌(逸東)",Special Service
+KMB,S64P,"迎東邨","機場(貨運及航膳區)",Regular
+KMB,S64P,"迎東邨","機場(貨運及航膳區)",Special Service
+KMB,S64X,"東涌(滿東)","機場(循環線)",Regular
+KMB,S64X,"東涌(滿東)","機場(循環線)",Special Service
+KMB,SP1,"啟德體育園","坑口(北)(將軍澳醫院)",Regular
+KMB,SP10,"啟德體育園","中環(港澳碼頭)",Regular
+Citybus,SP10,"啟德體育園","中環 (港澳碼頭)",Regular
+Citybus,SP11,"啟德體育園","小西灣 (藍灣半島)",Regular
+KMB,SP12,"啟德體育園","落馬洲",Regular
+Citybus,SP12,"啟德體育園","落馬洲 (新田)",Regular
+Citybus,SP2,"啟德體育園","旺角",Regular
+KMB,SP3,"啟德體育園","青富苑",Regular
+KMB,SP5A,"啟德體育園","屯門碼頭",Regular
+Citybus,SP5B,"啟德體育園","屯門 (菁田及和田)",Regular
+KMB,SP6,"啟德體育園","天恆邨",Regular
+KMB,SP7,"啟德體育園","上水",Regular
+Citybus,SP9,"啟德體育園","日出康城",Regular
+KMB,T270,"粉嶺(祥華)","尖沙咀東(麼地道)",Regular
+KMB,T270,"尖沙咀東(麼地道)","粉嶺(祥華)",Regular
+KMB,T277,"上水","藍田站",Regular
+KMB,T277,"藍田站","上水",Regular
+KMB,T74,"梧桐寨 (白牛石)","觀塘碼頭",Regular
+KMB,T74,"觀塘碼頭","梧桐寨 (白牛石)",Regular
+KMB,T80,"美田","九龍灣",Regular
+KMB,T80,"顯徑","九龍灣",Special Service
+KMB,W2,"佐敦(西九龍站)","觀塘(循環線)",Regular
+KMB,W2,"佐敦(西九龍站)","麗港公園",Special Service
+KMB,W2,"創紀之城","佐敦(西九龍站)",Special Service
+KMB,W3,"上水","佐敦(西九龍站)",Regular
+KMB,W3,"佐敦(西九龍站)","上水",Regular
+KMB,W4,"高鐵(西九龍站)","香港故宮文化博物館(循環線)",Regular
+KMB,X1,"東涌站","機場博覽館",Regular
+KMB,X1,"機場博覽館","東涌站",Regular
+Citybus,X1,"東涌站","機場博覽館",Regular
+Citybus,X15,"中環 (天星碼頭)","山頂",Regular
+KMB,X33,"機場博覽館巴士總站","洪元路洪福邨",Regular
+KMB,X36,"機場博覽館","錦上路站",Regular
+KMB,X40,"機場博覽館巴士總站","烏溪沙站",Regular
+KMB,X42C,"青衣(長亨邨)","油塘",Regular
+KMB,X42C,"長康邨康祥樓","油塘",Special Service
+KMB,X42C,"油塘","青衣(長亨邨)",Regular
+KMB,X42P,"青衣站","藍田站",Regular
+KMB,X43,"機場博覽館巴士總站","粉嶺(聯和墟)",Regular
+KMB,X47,"機場博覽館巴士總站","大埔(富亨)",Regular
+Citybus,X55,"亞洲國際博覽館","亞洲國際博覽館",Regular
+KMB,X6C,"美孚","香港兒童醫院",Regular
+KMB,X6C,"香港兒童醫院","美孚",Regular
+Citybus,X8,"跑馬地 (上)","小西灣 (藍灣半島)",Regular
+KMB,X89D,"泥涌","觀塘碼頭",Regular
+KMB,X89D,"泥涌","觀塘碼頭",Special Service
+KMB,X89D,"觀塘碼頭","泥涌",Regular
+Citybus,X9,"中環 (天星碼頭)","石澳",Regular
+Citybus,X962,"金鐘 (西)","屯門 (龍門居)",Regular
+Citybus,X970,"海怡半島","長沙灣 (甘泉街)",Regular
